@@ -1,0 +1,4814 @@
+[2025-07-30 21:07:48] Suspicious ARP Request Detected
+    Frame #16
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.156
+    Interface: all
+    Epoch Time: 1753889868.9581375
+--------------------------------------------------
+[2025-07-30 21:07:49] Suspicious ARP Request Detected
+    Frame #17
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.156
+    Interface: all
+    Epoch Time: 1753889869.9595947
+--------------------------------------------------
+[2025-07-30 21:07:50] Suspicious ARP Request Detected
+    Frame #27
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.156
+    Interface: all
+    Epoch Time: 1753889870.9605815
+--------------------------------------------------
+[2025-07-30 21:07:51] Suspicious ARP Request Detected
+    Frame #58
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.156
+    Interface: all
+    Epoch Time: 1753889871.9618232
+--------------------------------------------------
+[2025-07-30 21:07:52] Suspicious ARP Request Detected
+    Frame #66
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.156
+    Interface: all
+    Epoch Time: 1753889872.962533
+--------------------------------------------------
+[2025-07-30 21:07:53] Suspicious ARP Request Detected
+    Frame #88
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.156
+    Interface: all
+    Epoch Time: 1753889873.9637892
+--------------------------------------------------
+[2025-07-30 21:07:54] Suspicious ARP Request Detected
+    Frame #112
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.156
+    Interface: all
+    Epoch Time: 1753889874.9650037
+--------------------------------------------------
+[2025-07-30 21:07:55] Suspicious ARP Request Detected
+    Frame #190
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.156
+    Interface: all
+    Epoch Time: 1753889875.9655566
+--------------------------------------------------
+[2025-07-31 18:05:00] Suspicious ARP Request Detected
+    Frame #29
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.156
+    Interface: all
+    Epoch Time: 1753965300.8132215
+--------------------------------------------------
+[2025-07-31 18:05:01] Suspicious ARP Request Detected
+    Frame #37
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.156
+    Interface: all
+    Epoch Time: 1753965301.8243775
+--------------------------------------------------
+[2025-07-31 18:05:02] Suspicious ARP Request Detected
+    Frame #43
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.156
+    Interface: all
+    Epoch Time: 1753965302.848676
+--------------------------------------------------
+[2025-07-31 18:10:34] Suspicious ARP Request Detected
+    Frame #12
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.72.10
+    Target IP: 10.1.72.73
+    Interface: all
+    Epoch Time: 1753965634.359317
+--------------------------------------------------
+[2025-07-31 18:20:04] Suspicious ARP Request Detected
+    Frame #24
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.72.141
+    Interface: all
+    Epoch Time: 1753966204.6786504
+--------------------------------------------------
+[2025-07-31 18:20:05] Suspicious ARP Request Detected
+    Frame #26
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.72.141
+    Interface: all
+    Epoch Time: 1753966205.697362
+--------------------------------------------------
+[2025-07-31 18:23:46] Possible Port Scanning Detected!
+    Source IP: 10.1.74.204
+    Target IP: 10.1.72.141
+    Ports tried in last 10s: [28, 29, 30, 40, 47, 56, 57, 60, 61, 69]
+--------------------------------------------------
+[2025-07-31 18:23:47] Possible Port Scanning Detected!
+    Source IP: 10.1.74.204
+    Target IP: 10.1.72.141
+    Ports tried in last 10s: [28, 29, 30, 40, 47, 56, 57, 60, 61, 64, 69]
+--------------------------------------------------
+[2025-07-31 18:23:48] Possible Port Scanning Detected!
+    Source IP: 10.1.74.204
+    Target IP: 10.1.72.141
+    Ports tried in last 10s: [28, 29, 30, 40, 47, 56, 57, 60, 61, 64, 69]
+--------------------------------------------------
+[2025-07-31 18:23:53] Suspicious ARP Request Detected
+    Frame #25
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.72.10
+    Target IP: 10.1.72.55
+    Interface: all
+    Epoch Time: 1753966433.7027464
+--------------------------------------------------
+[2025-07-31 19:15:57] Suspicious ARP Request Detected
+    Frame #1
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.72.10
+    Target IP: 10.1.72.18
+    Interface: all
+    Epoch Time: 1753969557.5737953
+--------------------------------------------------
+[2025-07-31 19:35:07] Suspicious ARP Request Detected
+    Frame #3
+    Source MAC: 04:68:74:98:91:5d
+    Source IP: 10.1.74.230
+    Target IP: 10.1.74.99
+    Interface: all
+    Epoch Time: 1753970707.528445
+--------------------------------------------------
+[2025-07-31 19:35:10] Suspicious ARP Request Detected
+    Frame #4
+    Source MAC: 04:68:74:98:91:5d
+    Source IP: 10.1.74.230
+    Target IP: 10.1.74.99
+    Interface: all
+    Epoch Time: 1753970710.3960857
+--------------------------------------------------
+[2025-07-31 19:35:12] Suspicious ARP Request Detected
+    Frame #5
+    Source MAC: 04:68:74:98:91:5d
+    Source IP: 10.1.74.230
+    Target IP: 10.1.74.99
+    Interface: all
+    Epoch Time: 1753970712.034396
+--------------------------------------------------
+[2025-07-31 19:35:14] Suspicious ARP Request Detected
+    Frame #6
+    Source MAC: 04:68:74:98:91:5d
+    Source IP: 10.1.74.230
+    Target IP: 10.1.74.99
+    Interface: all
+    Epoch Time: 1753970714.5043035
+--------------------------------------------------
+[2025-07-31 19:35:15] Suspicious ARP Request Detected
+    Frame #7
+    Source MAC: 04:68:74:98:91:5d
+    Source IP: 10.1.74.230
+    Target IP: 10.1.74.99
+    Interface: all
+    Epoch Time: 1753970715.118781
+--------------------------------------------------
+[2025-07-31 19:35:16] Suspicious ARP Request Detected
+    Frame #8
+    Source MAC: 04:68:74:98:91:5d
+    Source IP: 10.1.74.230
+    Target IP: 10.1.74.99
+    Interface: all
+    Epoch Time: 1753970716.1476917
+--------------------------------------------------
+[2025-07-31 19:37:23] Suspicious ARP Request Detected
+    Frame #97
+    Source MAC: 04:68:74:98:91:5d
+    Source IP: 10.1.74.230
+    Target IP: 10.1.74.46
+    Interface: all
+    Epoch Time: 1753970843.4714653
+--------------------------------------------------
+[2025-07-31 19:37:23] Suspicious ARP Request Detected
+    Frame #98
+    Source MAC: 04:68:74:98:91:5d
+    Source IP: 10.1.74.230
+    Target IP: 10.1.74.46
+    Interface: all
+    Epoch Time: 1753970843.4860666
+--------------------------------------------------
+[2025-07-31 19:37:24] Suspicious ARP Request Detected
+    Frame #99
+    Source MAC: 04:68:74:98:91:5d
+    Source IP: 10.1.74.230
+    Target IP: 10.1.74.46
+    Interface: all
+    Epoch Time: 1753970844.143686
+--------------------------------------------------
+[2025-07-31 19:37:29] Suspicious ARP Request Detected
+    Frame #175
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.72.10
+    Target IP: 10.1.72.18
+    Interface: all
+    Epoch Time: 1753970849.0880406
+--------------------------------------------------
+[2025-07-31 19:39:40] Suspicious ARP Request Detected
+    Frame #5
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.72.10
+    Target IP: 10.1.74.138
+    Interface: all
+    Epoch Time: 1753970980.33863
+--------------------------------------------------
+[2025-07-31 19:49:03] Suspicious ARP Request Detected
+    Frame #4
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.72.10
+    Target IP: 10.1.72.70
+    Interface: all
+    Epoch Time: 1753971543.2674897
+--------------------------------------------------
+[2025-08-01 22:27:32] Suspicious ARP Request Detected
+    Frame #136
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.72.10
+    Target IP: 10.1.74.192
+    Interface: all
+    Epoch Time: 1754067452.2971761
+--------------------------------------------------
+[2025-08-01 22:27:42] Suspicious ARP Request Detected
+    Frame #161
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.72.10
+    Target IP: 10.1.72.145
+    Interface: all
+    Epoch Time: 1754067462.9345942
+--------------------------------------------------
+[2025-08-01 22:27:50] Suspicious ARP Request Detected
+    Frame #177
+    Source MAC: 00:41:0e:d4:25:9b
+    Source IP: 10.1.74.146
+    Target IP: 10.1.74.167
+    Interface: all
+    Epoch Time: 1754067470.1149237
+--------------------------------------------------
+[2025-08-01 22:27:52] Suspicious ARP Request Detected
+    Frame #184
+    Source MAC: 00:41:0e:d4:25:9b
+    Source IP: 10.1.74.146
+    Target IP: 10.1.74.167
+    Interface: all
+    Epoch Time: 1754067472.983248
+--------------------------------------------------
+[2025-08-01 22:27:53] Suspicious ARP Request Detected
+    Frame #186
+    Source MAC: 00:41:0e:d4:25:9b
+    Source IP: 10.1.74.146
+    Target IP: 10.1.74.167
+    Interface: all
+    Epoch Time: 1754067473.8017232
+--------------------------------------------------
+[2025-08-01 22:27:54] Suspicious ARP Request Detected
+    Frame #198
+    Source MAC: 00:41:0e:d4:25:9b
+    Source IP: 10.1.74.146
+    Target IP: 10.1.74.167
+    Interface: all
+    Epoch Time: 1754067474.6079228
+--------------------------------------------------
+[2025-08-01 22:27:55] Suspicious ARP Request Detected
+    Frame #203
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.72.10
+    Target IP: 10.1.74.127
+    Interface: all
+    Epoch Time: 1754067475.439663
+--------------------------------------------------
+[2025-08-01 22:27:55] Suspicious ARP Request Detected
+    Frame #204
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.72.10
+    Target IP: 10.1.72.178
+    Interface: all
+    Epoch Time: 1754067475.6441221
+--------------------------------------------------
+[2025-08-02 10:39:46] Suspicious ARP Request Detected
+    Frame #24
+    Source MAC: 4c:1d:96:3a:84:f5
+    Source IP: 10.1.34.123
+    Target IP: 10.1.34.252
+    Interface: all
+    Epoch Time: 1754111386.0253465
+--------------------------------------------------
+[2025-08-02 11:10:15] Suspicious ARP Request Detected
+    Frame #2
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.152.10
+    Target IP: 10.1.152.110
+    Interface: all
+    Epoch Time: 1754113215.940837
+--------------------------------------------------
+[2025-08-02 11:10:16] Suspicious ARP Request Detected
+    Frame #5
+    Source MAC: dc:45:46:dc:50:b9
+    Source IP: 10.1.34.156
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113216.1501207
+--------------------------------------------------
+[2025-08-02 11:10:16] Suspicious ARP Request Detected
+    Frame #38
+    Source MAC: 60:e9:aa:d1:c5:89
+    Source IP: 10.1.35.193
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754113216.5547168
+--------------------------------------------------
+[2025-08-02 11:10:16] Suspicious ARP Request Detected
+    Frame #39
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.152.10
+    Target IP: 10.1.154.100
+    Interface: all
+    Epoch Time: 1754113216.5551436
+--------------------------------------------------
+[2025-08-02 11:10:17] Suspicious ARP Request Detected
+    Frame #58
+    Source MAC: a8:41:f4:8f:07:91
+    Source IP: 10.1.33.65
+    Target IP: 10.1.35.193
+    Interface: all
+    Epoch Time: 1754113217.1732006
+--------------------------------------------------
+[2025-08-02 11:10:17] Suspicious ARP Request Detected
+    Frame #59
+    Source MAC: 3c:e9:f7:d0:f6:e2
+    Source IP: 10.1.32.64
+    Target IP: 10.1.35.193
+    Interface: all
+    Epoch Time: 1754113217.1734502
+--------------------------------------------------
+[2025-08-02 11:10:17] Suspicious ARP Request Detected
+    Frame #60
+    Source MAC: 2c:3b:70:a0:14:63
+    Source IP: 10.1.32.187
+    Target IP: 10.1.35.193
+    Interface: all
+    Epoch Time: 1754113217.173672
+--------------------------------------------------
+[2025-08-02 11:10:17] Suspicious ARP Request Detected
+    Frame #61
+    Source MAC: ac:ed:5c:36:e5:c0
+    Source IP: 10.1.35.24
+    Target IP: 10.1.35.193
+    Interface: all
+    Epoch Time: 1754113217.1738744
+--------------------------------------------------
+[2025-08-02 11:10:17] Suspicious ARP Request Detected
+    Frame #67
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.32.150
+    Interface: all
+    Epoch Time: 1754113217.7869442
+--------------------------------------------------
+[2025-08-02 11:10:19] Suspicious ARP Request Detected
+    Frame #133
+    Source MAC: a8:7e:ea:de:c6:37
+    Source IP: 10.1.34.120
+    Target IP: 10.1.35.193
+    Interface: all
+    Epoch Time: 1754113219.2179534
+--------------------------------------------------
+[2025-08-02 11:10:19] Suspicious ARP Request Detected
+    Frame #135
+    Source MAC: 14:d4:24:93:30:9b
+    Source IP: 10.1.34.209
+    Target IP: 10.1.34.48
+    Interface: all
+    Epoch Time: 1754113219.4138978
+--------------------------------------------------
+[2025-08-02 11:10:19] Suspicious ARP Request Detected
+    Frame #136
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113219.62642
+--------------------------------------------------
+[2025-08-02 11:10:20] Suspicious ARP Request Detected
+    Frame #153
+    Source MAC: 14:d4:24:93:30:9b
+    Source IP: 10.1.34.209
+    Target IP: 10.1.34.48
+    Interface: all
+    Epoch Time: 1754113220.2462432
+--------------------------------------------------
+[2025-08-02 11:10:20] Suspicious ARP Request Detected
+    Frame #158
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113220.4540086
+--------------------------------------------------
+[2025-08-02 11:10:21] Suspicious ARP Request Detected
+    Frame #184
+    Source MAC: 14:d4:24:93:30:9b
+    Source IP: 10.1.34.209
+    Target IP: 10.1.34.48
+    Interface: all
+    Epoch Time: 1754113221.2717252
+--------------------------------------------------
+[2025-08-02 11:10:21] Suspicious ARP Request Detected
+    Frame #218
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113221.467235
+--------------------------------------------------
+[2025-08-02 11:10:22] Suspicious ARP Request Detected
+    Frame #252
+    Source MAC: dc:45:46:dc:50:b9
+    Source IP: 10.1.34.156
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113222.2942872
+--------------------------------------------------
+[2025-08-02 11:10:22] Suspicious ARP Request Detected
+    Frame #258
+    Source MAC: 4c:b0:4a:0b:27:0a
+    Source IP: 10.1.34.77
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754113222.7038133
+--------------------------------------------------
+[2025-08-02 11:10:22] Suspicious ARP Request Detected
+    Frame #261
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113222.7046683
+--------------------------------------------------
+[2025-08-02 11:10:22] Suspicious ARP Request Detected
+    Frame #262
+    Source MAC: 4c:b0:4a:0b:27:0a
+    Source IP: 10.1.34.77
+    Target IP: 10.1.136.10
+    Interface: all
+    Epoch Time: 1754113222.7049532
+--------------------------------------------------
+[2025-08-02 11:10:22] Suspicious ARP Request Detected
+    Frame #263
+    Source MAC: 2c:6d:c1:3d:ac:6b
+    Source IP: 10.1.34.39
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113222.9137845
+--------------------------------------------------
+[2025-08-02 11:10:23] Suspicious ARP Request Detected
+    Frame #265
+    Source MAC: dc:45:46:dc:50:b9
+    Source IP: 10.1.34.156
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113223.1132748
+--------------------------------------------------
+[2025-08-02 11:10:23] Suspicious ARP Request Detected
+    Frame #298
+    Source MAC: 2c:6d:c1:3d:ac:6b
+    Source IP: 10.1.34.39
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113223.513827
+--------------------------------------------------
+[2025-08-02 11:10:23] Suspicious ARP Request Detected
+    Frame #299
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113223.5144172
+--------------------------------------------------
+[2025-08-02 11:10:23] Suspicious ARP Request Detected
+    Frame #300
+    Source MAC: 4c:b0:4a:0b:27:0a
+    Source IP: 10.1.34.77
+    Target IP: 10.1.136.10
+    Interface: all
+    Epoch Time: 1754113223.5147998
+--------------------------------------------------
+[2025-08-02 11:10:23] Suspicious ARP Request Detected
+    Frame #312
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.44
+    Interface: all
+    Epoch Time: 1754113223.924055
+--------------------------------------------------
+[2025-08-02 11:10:24] Suspicious ARP Request Detected
+    Frame #313
+    Source MAC: dc:45:46:dc:50:b9
+    Source IP: 10.1.34.156
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113224.1403053
+--------------------------------------------------
+[2025-08-02 11:10:24] Suspicious ARP Request Detected
+    Frame #331
+    Source MAC: 2c:6d:c1:3d:ac:6b
+    Source IP: 10.1.34.39
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113224.5386572
+--------------------------------------------------
+[2025-08-02 11:10:24] Suspicious ARP Request Detected
+    Frame #332
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113224.5391848
+--------------------------------------------------
+[2025-08-02 11:10:24] Suspicious ARP Request Detected
+    Frame #333
+    Source MAC: 4c:b0:4a:0b:27:0a
+    Source IP: 10.1.34.77
+    Target IP: 10.1.136.10
+    Interface: all
+    Epoch Time: 1754113224.5395775
+--------------------------------------------------
+[2025-08-02 11:10:25] Suspicious ARP Request Detected
+    Frame #367
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113225.5697608
+--------------------------------------------------
+[2025-08-02 11:10:25] Suspicious ARP Request Detected
+    Frame #383
+    Source MAC: 2c:6d:c1:3d:ac:6b
+    Source IP: 10.1.34.39
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113225.9676766
+--------------------------------------------------
+[2025-08-02 11:10:26] Suspicious ARP Request Detected
+    Frame #389
+    Source MAC: 2c:6d:c1:3d:ac:6b
+    Source IP: 10.1.34.39
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113226.3806217
+--------------------------------------------------
+[2025-08-02 11:10:26] Suspicious ARP Request Detected
+    Frame #397
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113226.7994907
+--------------------------------------------------
+[2025-08-02 11:10:27] Suspicious ARP Request Detected
+    Frame #425
+    Source MAC: 2c:6d:c1:3d:ac:6b
+    Source IP: 10.1.34.39
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113227.4062493
+--------------------------------------------------
+[2025-08-02 11:10:27] Suspicious ARP Request Detected
+    Frame #426
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113227.406764
+--------------------------------------------------
+[2025-08-02 11:10:28] Suspicious ARP Request Detected
+    Frame #464
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113228.4291468
+--------------------------------------------------
+[2025-08-02 11:10:30] Suspicious ARP Request Detected
+    Frame #480
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113230.0773547
+--------------------------------------------------
+[2025-08-02 11:10:30] Suspicious ARP Request Detected
+    Frame #495
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113230.8867242
+--------------------------------------------------
+[2025-08-02 11:10:31] Suspicious ARP Request Detected
+    Frame #529
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113231.919519
+--------------------------------------------------
+[2025-08-02 11:10:32] Suspicious ARP Request Detected
+    Frame #542
+    Source MAC: f8:54:f6:65:ee:19
+    Source IP: 10.1.34.137
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754113232.9440782
+--------------------------------------------------
+[2025-08-02 11:10:33] Suspicious ARP Request Detected
+    Frame #549
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113233.1391642
+--------------------------------------------------
+[2025-08-02 11:10:33] Suspicious ARP Request Detected
+    Frame #562
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113233.9705846
+--------------------------------------------------
+[2025-08-02 11:10:34] Suspicious ARP Request Detected
+    Frame #563
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.32.243
+    Interface: all
+    Epoch Time: 1754113234.1720273
+--------------------------------------------------
+[2025-08-02 11:10:34] Suspicious ARP Request Detected
+    Frame #568
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113234.992438
+--------------------------------------------------
+[2025-08-02 11:10:35] Suspicious ARP Request Detected
+    Frame #577
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.152.10
+    Target IP: 10.1.152.68
+    Interface: all
+    Epoch Time: 1754113235.3888714
+--------------------------------------------------
+[2025-08-02 11:10:36] Suspicious ARP Request Detected
+    Frame #591
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113236.2113194
+--------------------------------------------------
+[2025-08-02 11:10:37] Suspicious ARP Request Detected
+    Frame #622
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113237.0310233
+--------------------------------------------------
+[2025-08-02 11:10:37] Suspicious ARP Request Detected
+    Frame #644
+    Source MAC: 50:5a:65:71:32:f1
+    Source IP: 10.1.152.44
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113237.6452856
+--------------------------------------------------
+[2025-08-02 11:10:38] Suspicious ARP Request Detected
+    Frame #650
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113238.0558965
+--------------------------------------------------
+[2025-08-02 11:10:38] Suspicious ARP Request Detected
+    Frame #652
+    Source MAC: 50:5a:65:71:32:f1
+    Source IP: 10.1.152.44
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113238.4730008
+--------------------------------------------------
+[2025-08-02 11:10:39] Suspicious ARP Request Detected
+    Frame #664
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113239.2824922
+--------------------------------------------------
+[2025-08-02 11:10:39] Suspicious ARP Request Detected
+    Frame #665
+    Source MAC: 50:5a:65:71:32:f1
+    Source IP: 10.1.152.44
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113239.4975083
+--------------------------------------------------
+[2025-08-02 11:10:39] Suspicious ARP Request Detected
+    Frame #676
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113239.8950875
+--------------------------------------------------
+[2025-08-02 11:10:40] Suspicious ARP Request Detected
+    Frame #687
+    Source MAC: 40:1a:58:c0:9d:fe
+    Source IP: 10.1.35.16
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754113240.5134811
+--------------------------------------------------
+[2025-08-02 11:10:40] Suspicious ARP Request Detected
+    Frame #688
+    Source MAC: 40:1a:58:c0:9d:fe
+    Source IP: 10.1.35.16
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754113240.5138943
+--------------------------------------------------
+[2025-08-02 11:10:40] Suspicious ARP Request Detected
+    Frame #689
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.28
+    Interface: all
+    Epoch Time: 1754113240.5142772
+--------------------------------------------------
+[2025-08-02 11:10:40] Suspicious ARP Request Detected
+    Frame #694
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113240.9318914
+--------------------------------------------------
+[2025-08-02 11:10:41] Suspicious ARP Request Detected
+    Frame #696
+    Source MAC: 40:1a:58:c0:9d:fe
+    Source IP: 10.1.35.16
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754113241.3393588
+--------------------------------------------------
+[2025-08-02 11:10:41] Suspicious ARP Request Detected
+    Frame #698
+    Source MAC: 40:1a:58:c0:9d:fe
+    Source IP: 10.1.35.16
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754113241.3401299
+--------------------------------------------------
+[2025-08-02 11:10:42] Suspicious ARP Request Detected
+    Frame #721
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113242.5567458
+--------------------------------------------------
+[2025-08-02 11:10:43] Suspicious ARP Request Detected
+    Frame #726
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113243.3874197
+--------------------------------------------------
+[2025-08-02 11:10:43] Suspicious ARP Request Detected
+    Frame #738
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.35.87
+    Interface: all
+    Epoch Time: 1754113243.789577
+--------------------------------------------------
+[2025-08-02 11:10:44] Suspicious ARP Request Detected
+    Frame #748
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113244.4110954
+--------------------------------------------------
+[2025-08-02 11:10:44] Suspicious ARP Request Detected
+    Frame #749
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113244.8196125
+--------------------------------------------------
+[2025-08-02 11:10:45] Suspicious ARP Request Detected
+    Frame #764
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113245.4412193
+--------------------------------------------------
+[2025-08-02 11:10:45] Suspicious ARP Request Detected
+    Frame #765
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113245.6377492
+--------------------------------------------------
+[2025-08-02 11:10:46] Suspicious ARP Request Detected
+    Frame #795
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113246.4484627
+--------------------------------------------------
+[2025-08-02 11:10:46] Suspicious ARP Request Detected
+    Frame #796
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113246.4489741
+--------------------------------------------------
+[2025-08-02 11:10:47] Suspicious ARP Request Detected
+    Frame #825
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113247.4763694
+--------------------------------------------------
+[2025-08-02 11:10:47] Suspicious ARP Request Detected
+    Frame #827
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.112
+    Interface: all
+    Epoch Time: 1754113247.6811037
+--------------------------------------------------
+[2025-08-02 11:10:48] Suspicious ARP Request Detected
+    Frame #840
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113248.2957253
+--------------------------------------------------
+[2025-08-02 11:10:48] Suspicious ARP Request Detected
+    Frame #870
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113248.9073844
+--------------------------------------------------
+[2025-08-02 11:10:49] Suspicious ARP Request Detected
+    Frame #901
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.143
+    Interface: all
+    Epoch Time: 1754113249.883504
+--------------------------------------------------
+[2025-08-02 11:10:49] Suspicious ARP Request Detected
+    Frame #904
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113249.9314756
+--------------------------------------------------
+[2025-08-02 11:10:50] Suspicious ARP Request Detected
+    Frame #954
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.143
+    Interface: all
+    Epoch Time: 1754113250.8844414
+--------------------------------------------------
+[2025-08-02 11:10:51] Suspicious ARP Request Detected
+    Frame #1044
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.143
+    Interface: all
+    Epoch Time: 1754113251.8857396
+--------------------------------------------------
+[2025-08-02 11:10:52] Suspicious ARP Request Detected
+    Frame #1063
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.143
+    Interface: all
+    Epoch Time: 1754113252.8864334
+--------------------------------------------------
+[2025-08-02 11:10:53] Suspicious ARP Request Detected
+    Frame #1064
+    Source MAC: 4c:b0:4a:0b:27:0a
+    Source IP: 10.1.34.77
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754113253.0045717
+--------------------------------------------------
+[2025-08-02 11:10:53] Suspicious ARP Request Detected
+    Frame #1066
+    Source MAC: 4c:b0:4a:0b:27:0a
+    Source IP: 10.1.34.77
+    Target IP: 10.1.136.10
+    Interface: all
+    Epoch Time: 1754113253.0054784
+--------------------------------------------------
+[2025-08-02 11:10:53] Suspicious ARP Request Detected
+    Frame #1080
+    Source MAC: 4c:b0:4a:0b:27:0a
+    Source IP: 10.1.34.77
+    Target IP: 10.1.136.10
+    Interface: all
+    Epoch Time: 1754113253.632051
+--------------------------------------------------
+[2025-08-02 11:10:53] Suspicious ARP Request Detected
+    Frame #1083
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.143
+    Interface: all
+    Epoch Time: 1754113253.8867822
+--------------------------------------------------
+[2025-08-02 11:10:54] Suspicious ARP Request Detected
+    Frame #1091
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.124
+    Interface: all
+    Epoch Time: 1754113254.0263846
+--------------------------------------------------
+[2025-08-02 11:10:54] Suspicious ARP Request Detected
+    Frame #1092
+    Source MAC: f8:54:f6:dc:a8:8e
+    Source IP: 10.1.152.124
+    Target IP: 10.1.154.148
+    Interface: all
+    Epoch Time: 1754113254.0268407
+--------------------------------------------------
+[2025-08-02 11:10:54] Suspicious ARP Request Detected
+    Frame #1117
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113254.0314245
+--------------------------------------------------
+[2025-08-02 11:10:54] Suspicious ARP Request Detected
+    Frame #1142
+    Source MAC: 4c:b0:4a:0b:27:0a
+    Source IP: 10.1.34.77
+    Target IP: 10.1.136.10
+    Interface: all
+    Epoch Time: 1754113254.643861
+--------------------------------------------------
+[2025-08-02 11:10:54] Suspicious ARP Request Detected
+    Frame #1147
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.143
+    Interface: all
+    Epoch Time: 1754113254.887195
+--------------------------------------------------
+[2025-08-02 11:10:55] Suspicious ARP Request Detected
+    Frame #1150
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113255.054286
+--------------------------------------------------
+[2025-08-02 11:10:55] Suspicious ARP Request Detected
+    Frame #1160
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.32.167
+    Interface: all
+    Epoch Time: 1754113255.8876338
+--------------------------------------------------
+[2025-08-02 11:10:55] Suspicious ARP Request Detected
+    Frame #1163
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113255.8886712
+--------------------------------------------------
+[2025-08-02 11:10:55] Suspicious ARP Request Detected
+    Frame #1164
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.143
+    Interface: all
+    Epoch Time: 1754113255.8889613
+--------------------------------------------------
+[2025-08-02 11:10:56] Suspicious ARP Request Detected
+    Frame #1175
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.103
+    Interface: all
+    Epoch Time: 1754113256.0737436
+--------------------------------------------------
+[2025-08-02 11:10:56] Suspicious ARP Request Detected
+    Frame #1187
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.143
+    Interface: all
+    Epoch Time: 1754113256.888998
+--------------------------------------------------
+[2025-08-02 11:10:57] Suspicious ARP Request Detected
+    Frame #1197
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113257.10208
+--------------------------------------------------
+[2025-08-02 11:10:57] Suspicious ARP Request Detected
+    Frame #1198
+    Source MAC: 3c:55:76:fe:0b:f3
+    Source IP: 10.1.32.165
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754113257.1025283
+--------------------------------------------------
+[2025-08-02 11:10:57] Suspicious ARP Request Detected
+    Frame #1210
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113257.9291558
+--------------------------------------------------
+[2025-08-02 11:10:58] Suspicious ARP Request Detected
+    Frame #1214
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.154.22
+    Interface: all
+    Epoch Time: 1754113258.1255202
+--------------------------------------------------
+[2025-08-02 11:10:58] Suspicious ARP Request Detected
+    Frame #1236
+    Source MAC: 4c:0f:6e:fa:89:54
+    Source IP: 10.1.154.22
+    Target IP: 10.1.154.148
+    Interface: all
+    Epoch Time: 1754113258.3265207
+--------------------------------------------------
+[2025-08-02 11:12:32] Suspicious ARP Request Detected
+    Frame #5
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113352.5487306
+--------------------------------------------------
+[2025-08-02 11:12:32] Suspicious ARP Request Detected
+    Frame #8
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.4
+    Interface: all
+    Epoch Time: 1754113352.550127
+--------------------------------------------------
+[2025-08-02 11:12:32] Suspicious ARP Request Detected
+    Frame #10
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.4
+    Interface: all
+    Epoch Time: 1754113352.9580193
+--------------------------------------------------
+[2025-08-02 11:12:33] Suspicious ARP Request Detected
+    Frame #12
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113353.367427
+--------------------------------------------------
+[2025-08-02 11:12:33] Suspicious ARP Request Detected
+    Frame #15
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.4
+    Interface: all
+    Epoch Time: 1754113353.5731375
+--------------------------------------------------
+[2025-08-02 11:12:34] Suspicious ARP Request Detected
+    Frame #22
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.4
+    Interface: all
+    Epoch Time: 1754113354.5999408
+--------------------------------------------------
+[2025-08-02 11:12:34] Suspicious ARP Request Detected
+    Frame #23
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113354.6004577
+--------------------------------------------------
+[2025-08-02 11:12:35] Suspicious ARP Request Detected
+    Frame #110
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113355.4053392
+--------------------------------------------------
+[2025-08-02 11:12:35] Suspicious ARP Request Detected
+    Frame #119
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.4
+    Interface: all
+    Epoch Time: 1754113355.6115117
+--------------------------------------------------
+[2025-08-02 11:12:36] Suspicious ARP Request Detected
+    Frame #138
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113356.4307163
+--------------------------------------------------
+[2025-08-02 11:12:37] Suspicious ARP Request Detected
+    Frame #158
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.4
+    Interface: all
+    Epoch Time: 1754113357.0419528
+--------------------------------------------------
+[2025-08-02 11:12:37] Suspicious ARP Request Detected
+    Frame #174
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.4
+    Interface: all
+    Epoch Time: 1754113357.6562726
+--------------------------------------------------
+[2025-08-02 11:12:37] Suspicious ARP Request Detected
+    Frame #175
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113357.656804
+--------------------------------------------------
+[2025-08-02 11:12:38] Suspicious ARP Request Detected
+    Frame #181
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.4
+    Interface: all
+    Epoch Time: 1754113358.070318
+--------------------------------------------------
+[2025-08-02 11:12:38] Suspicious ARP Request Detected
+    Frame #183
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113358.4883947
+--------------------------------------------------
+[2025-08-02 11:12:38] Suspicious ARP Request Detected
+    Frame #190
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.4
+    Interface: all
+    Epoch Time: 1754113358.4902904
+--------------------------------------------------
+[2025-08-02 11:12:38] Suspicious ARP Request Detected
+    Frame #191
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.32.78
+    Interface: all
+    Epoch Time: 1754113358.6929321
+--------------------------------------------------
+[2025-08-02 11:12:38] Suspicious ARP Request Detected
+    Frame #192
+    Source MAC: 50:5a:65:71:32:f1
+    Source IP: 10.1.152.44
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113358.8964114
+--------------------------------------------------
+[2025-08-02 11:12:39] Suspicious ARP Request Detected
+    Frame #193
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.32.78
+    Interface: all
+    Epoch Time: 1754113359.1024888
+--------------------------------------------------
+[2025-08-02 11:12:39] Suspicious ARP Request Detected
+    Frame #213
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113359.5039246
+--------------------------------------------------
+[2025-08-02 11:12:39] Suspicious ARP Request Detected
+    Frame #214
+    Source MAC: 50:5a:65:71:32:f1
+    Source IP: 10.1.152.44
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113359.5042908
+--------------------------------------------------
+[2025-08-02 11:12:39] Suspicious ARP Request Detected
+    Frame #219
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.4
+    Interface: all
+    Epoch Time: 1754113359.5055332
+--------------------------------------------------
+[2025-08-02 11:12:40] Suspicious ARP Request Detected
+    Frame #230
+    Source MAC: 94:bb:43:bb:39:04
+    Source IP: 10.1.34.115
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754113360.1144037
+--------------------------------------------------
+[2025-08-02 11:12:40] Suspicious ARP Request Detected
+    Frame #236
+    Source MAC: 50:5a:65:71:32:f1
+    Source IP: 10.1.152.44
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113360.5236032
+--------------------------------------------------
+[2025-08-02 11:12:40] Suspicious ARP Request Detected
+    Frame #239
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.4
+    Interface: all
+    Epoch Time: 1754113360.5247397
+--------------------------------------------------
+[2025-08-02 11:12:40] Suspicious ARP Request Detected
+    Frame #241
+    Source MAC: 94:bb:43:bb:39:04
+    Source IP: 10.1.34.115
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754113360.7409587
+--------------------------------------------------
+[2025-08-02 11:12:40] Suspicious ARP Request Detected
+    Frame #242
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113360.950115
+--------------------------------------------------
+[2025-08-02 11:12:41] Suspicious ARP Request Detected
+    Frame #244
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.152.10
+    Target IP: 10.1.154.15
+    Interface: all
+    Epoch Time: 1754113361.1502445
+--------------------------------------------------
+[2025-08-02 11:12:41] Suspicious ARP Request Detected
+    Frame #256
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.152.10
+    Target IP: 10.1.154.59
+    Interface: all
+    Epoch Time: 1754113361.3456168
+--------------------------------------------------
+[2025-08-02 11:12:41] Suspicious ARP Request Detected
+    Frame #257
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.32.139
+    Interface: all
+    Epoch Time: 1754113361.3461416
+--------------------------------------------------
+[2025-08-02 11:12:41] Suspicious ARP Request Detected
+    Frame #265
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113361.549742
+--------------------------------------------------
+[2025-08-02 11:12:42] Suspicious ARP Request Detected
+    Frame #278
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.152.10
+    Target IP: 10.1.152.135
+    Interface: all
+    Epoch Time: 1754113362.1661744
+--------------------------------------------------
+[2025-08-02 11:12:42] Suspicious ARP Request Detected
+    Frame #280
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113362.3703074
+--------------------------------------------------
+[2025-08-02 11:12:42] Suspicious ARP Request Detected
+    Frame #281
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.4
+    Interface: all
+    Epoch Time: 1754113362.5839326
+--------------------------------------------------
+[2025-08-02 11:12:42] Suspicious ARP Request Detected
+    Frame #285
+    Source MAC: 28:a0:6b:d8:1c:47
+    Source IP: 10.1.33.144
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754113362.7943485
+--------------------------------------------------
+[2025-08-02 11:12:42] Suspicious ARP Request Detected
+    Frame #286
+    Source MAC: 28:a0:6b:d8:1c:47
+    Source IP: 10.1.33.144
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754113362.7948143
+--------------------------------------------------
+[2025-08-02 11:12:42] Suspicious ARP Request Detected
+    Frame #287
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.4
+    Interface: all
+    Epoch Time: 1754113362.997915
+--------------------------------------------------
+[2025-08-02 11:12:43] Suspicious ARP Request Detected
+    Frame #288
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.152.10
+    Target IP: 10.1.154.91
+    Interface: all
+    Epoch Time: 1754113363.198477
+--------------------------------------------------
+[2025-08-02 11:12:43] Suspicious ARP Request Detected
+    Frame #301
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.34.228
+    Interface: all
+    Epoch Time: 1754113363.3952992
+--------------------------------------------------
+[2025-08-02 11:12:43] Suspicious ARP Request Detected
+    Frame #305
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.4
+    Interface: all
+    Epoch Time: 1754113363.6095173
+--------------------------------------------------
+[2025-08-02 11:12:44] Suspicious ARP Request Detected
+    Frame #316
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.4
+    Interface: all
+    Epoch Time: 1754113364.0231102
+--------------------------------------------------
+[2025-08-02 11:12:45] Suspicious ARP Request Detected
+    Frame #330
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.4
+    Interface: all
+    Epoch Time: 1754113365.0327065
+--------------------------------------------------
+[2025-08-02 11:12:45] Suspicious ARP Request Detected
+    Frame #356
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.45
+    Interface: all
+    Epoch Time: 1754113365.6470656
+--------------------------------------------------
+[2025-08-02 11:12:46] Suspicious ARP Request Detected
+    Frame #361
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113366.0570252
+--------------------------------------------------
+[2025-08-02 11:12:46] Suspicious ARP Request Detected
+    Frame #362
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.4
+    Interface: all
+    Epoch Time: 1754113366.0577524
+--------------------------------------------------
+[2025-08-02 11:12:46] Suspicious ARP Request Detected
+    Frame #379
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113366.8724418
+--------------------------------------------------
+[2025-08-02 11:12:47] Suspicious ARP Request Detected
+    Frame #390
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.4
+    Interface: all
+    Epoch Time: 1754113367.6949747
+--------------------------------------------------
+[2025-08-02 11:12:47] Suspicious ARP Request Detected
+    Frame #397
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113367.9001002
+--------------------------------------------------
+[2025-08-02 11:12:48] Suspicious ARP Request Detected
+    Frame #417
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113368.9325364
+--------------------------------------------------
+[2025-08-02 11:12:49] Suspicious ARP Request Detected
+    Frame #419
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113369.5468857
+--------------------------------------------------
+[2025-08-02 11:12:49] Suspicious ARP Request Detected
+    Frame #420
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113369.5474517
+--------------------------------------------------
+[2025-08-02 11:12:49] Suspicious ARP Request Detected
+    Frame #423
+    Source MAC: 9c:2f:9d:57:25:f1
+    Source IP: 10.1.154.142
+    Target IP: 10.1.152.10
+    Interface: all
+    Epoch Time: 1754113369.7517219
+--------------------------------------------------
+[2025-08-02 11:12:49] Suspicious ARP Request Detected
+    Frame #438
+    Source MAC: 9c:2f:9d:57:25:f1
+    Source IP: 10.1.154.142
+    Target IP: 10.1.152.10
+    Interface: all
+    Epoch Time: 1754113369.9486895
+--------------------------------------------------
+[2025-08-02 11:12:49] Suspicious ARP Request Detected
+    Frame #439
+    Source MAC: 9c:2f:9d:57:25:f1
+    Source IP: 10.1.154.142
+    Target IP: 10.1.152.10
+    Interface: all
+    Epoch Time: 1754113369.9490163
+--------------------------------------------------
+[2025-08-02 11:12:49] Suspicious ARP Request Detected
+    Frame #440
+    Source MAC: 9c:2f:9d:57:25:f1
+    Source IP: 10.1.154.142
+    Target IP: 10.1.152.10
+    Interface: all
+    Epoch Time: 1754113369.9494102
+--------------------------------------------------
+[2025-08-02 11:12:50] Suspicious ARP Request Detected
+    Frame #450
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113370.358118
+--------------------------------------------------
+[2025-08-02 11:12:50] Suspicious ARP Request Detected
+    Frame #451
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113370.3586106
+--------------------------------------------------
+[2025-08-02 11:12:50] Suspicious ARP Request Detected
+    Frame #455
+    Source MAC: a8:e2:91:e4:15:d8
+    Source IP: 10.1.152.135
+    Target IP: 10.1.154.142
+    Interface: all
+    Epoch Time: 1754113370.9808571
+--------------------------------------------------
+[2025-08-02 11:12:51] Suspicious ARP Request Detected
+    Frame #456
+    Source MAC: 58:96:1d:ea:83:55
+    Source IP: 10.1.154.15
+    Target IP: 10.1.154.142
+    Interface: all
+    Epoch Time: 1754113371.1856663
+--------------------------------------------------
+[2025-08-02 11:12:51] Suspicious ARP Request Detected
+    Frame #457
+    Source MAC: f8:54:f6:dc:a8:8e
+    Source IP: 10.1.152.124
+    Target IP: 10.1.154.142
+    Interface: all
+    Epoch Time: 1754113371.186186
+--------------------------------------------------
+[2025-08-02 11:12:51] Suspicious ARP Request Detected
+    Frame #459
+    Source MAC: 3c:a0:67:f9:23:ff
+    Source IP: 10.1.152.12
+    Target IP: 10.1.154.142
+    Interface: all
+    Epoch Time: 1754113371.394871
+--------------------------------------------------
+[2025-08-02 11:12:51] Suspicious ARP Request Detected
+    Frame #465
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113371.3966625
+--------------------------------------------------
+[2025-08-02 11:12:51] Suspicious ARP Request Detected
+    Frame #471
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.154.142
+    Interface: all
+    Epoch Time: 1754113371.8015373
+--------------------------------------------------
+[2025-08-02 11:12:51] Suspicious ARP Request Detected
+    Frame #473
+    Source MAC: 3c:a0:67:f9:23:ff
+    Source IP: 10.1.152.12
+    Target IP: 10.1.154.142
+    Interface: all
+    Epoch Time: 1754113371.8022015
+--------------------------------------------------
+[2025-08-02 11:12:52] Suspicious ARP Request Detected
+    Frame #493
+    Source MAC: cc:5e:f8:53:51:13
+    Source IP: 10.1.152.94
+    Target IP: 10.1.154.142
+    Interface: all
+    Epoch Time: 1754113372.197385
+--------------------------------------------------
+[2025-08-02 11:12:52] Suspicious ARP Request Detected
+    Frame #504
+    Source MAC: 3c:a0:67:f9:23:ff
+    Source IP: 10.1.152.12
+    Target IP: 10.1.154.142
+    Interface: all
+    Epoch Time: 1754113372.8288395
+--------------------------------------------------
+[2025-08-02 11:12:53] Suspicious ARP Request Detected
+    Frame #507
+    Source MAC: e0:ca:94:a9:2c:a9
+    Source IP: 10.1.152.156
+    Target IP: 10.1.154.142
+    Interface: all
+    Epoch Time: 1754113373.2338643
+--------------------------------------------------
+[2025-08-02 11:12:54] Suspicious ARP Request Detected
+    Frame #528
+    Source MAC: 64:27:37:af:8d:3f
+    Source IP: 10.1.154.91
+    Target IP: 10.1.154.142
+    Interface: all
+    Epoch Time: 1754113374.2454216
+--------------------------------------------------
+[2025-08-02 11:12:55] Suspicious ARP Request Detected
+    Frame #552
+    Source MAC: 3c:a0:67:f9:23:ff
+    Source IP: 10.1.152.12
+    Target IP: 10.1.154.142
+    Interface: all
+    Epoch Time: 1754113375.2817264
+--------------------------------------------------
+[2025-08-02 11:12:55] Suspicious ARP Request Detected
+    Frame #570
+    Source MAC: 3c:a0:67:f9:23:ff
+    Source IP: 10.1.152.12
+    Target IP: 10.1.154.142
+    Interface: all
+    Epoch Time: 1754113375.8998997
+--------------------------------------------------
+[2025-08-02 11:12:56] Suspicious ARP Request Detected
+    Frame #589
+    Source MAC: 3c:a0:67:f9:23:ff
+    Source IP: 10.1.152.12
+    Target IP: 10.1.154.142
+    Interface: all
+    Epoch Time: 1754113376.907882
+--------------------------------------------------
+[2025-08-02 11:12:57] Suspicious ARP Request Detected
+    Frame #599
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113377.1126266
+--------------------------------------------------
+[2025-08-02 11:12:57] Suspicious ARP Request Detected
+    Frame #617
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113377.935712
+--------------------------------------------------
+[2025-08-02 11:12:58] Suspicious ARP Request Detected
+    Frame #619
+    Source MAC: 3c:a0:67:f9:23:ff
+    Source IP: 10.1.152.12
+    Target IP: 10.1.154.142
+    Interface: all
+    Epoch Time: 1754113378.3536944
+--------------------------------------------------
+[2025-08-02 11:12:58] Suspicious ARP Request Detected
+    Frame #622
+    Source MAC: 80:32:53:35:18:d5
+    Source IP: 0.0.0.0
+    Target IP: 10.1.152.27
+    Interface: all
+    Epoch Time: 1754113378.558679
+--------------------------------------------------
+[2025-08-02 11:12:58] Suspicious ARP Request Detected
+    Frame #625
+    Source MAC: 80:32:53:35:18:d5
+    Source IP: 10.1.152.27
+    Target IP: 10.1.152.10
+    Interface: all
+    Epoch Time: 1754113378.5594773
+--------------------------------------------------
+[2025-08-02 11:12:58] Suspicious ARP Request Detected
+    Frame #631
+    Source MAC: 3c:a0:67:f9:23:ff
+    Source IP: 10.1.152.12
+    Target IP: 10.1.154.142
+    Interface: all
+    Epoch Time: 1754113378.9691794
+--------------------------------------------------
+[2025-08-02 11:12:58] Suspicious ARP Request Detected
+    Frame #637
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113378.9702628
+--------------------------------------------------
+[2025-08-02 11:12:59] Suspicious ARP Request Detected
+    Frame #666
+    Source MAC: 2c:3b:70:59:b1:27
+    Source IP: 10.1.33.250
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754113379.1657462
+--------------------------------------------------
+[2025-08-02 11:12:59] Suspicious ARP Request Detected
+    Frame #686
+    Source MAC: 80:32:53:35:18:d5
+    Source IP: 0.0.0.0
+    Target IP: 10.1.152.27
+    Interface: all
+    Epoch Time: 1754113379.5726433
+--------------------------------------------------
+[2025-08-02 11:12:59] Suspicious ARP Request Detected
+    Frame #692
+    Source MAC: 3c:a0:67:f9:23:ff
+    Source IP: 10.1.152.12
+    Target IP: 10.1.154.142
+    Interface: all
+    Epoch Time: 1754113379.9933932
+--------------------------------------------------
+[2025-08-02 11:13:00] Suspicious ARP Request Detected
+    Frame #707
+    Source MAC: 80:32:53:35:18:d5
+    Source IP: 0.0.0.0
+    Target IP: 10.1.152.27
+    Interface: all
+    Epoch Time: 1754113380.6065495
+--------------------------------------------------
+[2025-08-02 11:13:01] Suspicious ARP Request Detected
+    Frame #724
+    Source MAC: 80:32:53:35:18:d5
+    Source IP: 10.1.152.27
+    Target IP: 10.1.152.27
+    Interface: all
+    Epoch Time: 1754113381.6264162
+--------------------------------------------------
+[2025-08-02 11:13:03] Suspicious ARP Request Detected
+    Frame #750
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.152.10
+    Target IP: 10.1.152.123
+    Interface: all
+    Epoch Time: 1754113383.0557926
+--------------------------------------------------
+[2025-08-02 11:13:03] Suspicious ARP Request Detected
+    Frame #755
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.34.201
+    Interface: all
+    Epoch Time: 1754113383.6811922
+--------------------------------------------------
+[2025-08-02 11:13:05] Suspicious ARP Request Detected
+    Frame #785
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113385.1118226
+--------------------------------------------------
+[2025-08-02 11:13:05] Suspicious ARP Request Detected
+    Frame #794
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.86
+    Interface: all
+    Epoch Time: 1754113385.7271416
+--------------------------------------------------
+[2025-08-02 11:13:05] Suspicious ARP Request Detected
+    Frame #807
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.154
+    Interface: all
+    Epoch Time: 1754113385.9006972
+--------------------------------------------------
+[2025-08-02 11:13:05] Suspicious ARP Request Detected
+    Frame #808
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113385.919134
+--------------------------------------------------
+[2025-08-02 11:13:06] Suspicious ARP Request Detected
+    Frame #825
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.154
+    Interface: all
+    Epoch Time: 1754113386.9223936
+--------------------------------------------------
+[2025-08-02 11:13:06] Suspicious ARP Request Detected
+    Frame #826
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113386.9431539
+--------------------------------------------------
+[2025-08-02 11:13:07] Suspicious ARP Request Detected
+    Frame #858
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.154
+    Interface: all
+    Epoch Time: 1754113387.947427
+--------------------------------------------------
+[2025-08-02 11:13:08] Suspicious ARP Request Detected
+    Frame #934
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.154
+    Interface: all
+    Epoch Time: 1754113388.981999
+--------------------------------------------------
+[2025-08-02 11:13:09] Suspicious ARP Request Detected
+    Frame #946
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.154
+    Interface: all
+    Epoch Time: 1754113389.9943922
+--------------------------------------------------
+[2025-08-02 11:13:11] Suspicious ARP Request Detected
+    Frame #964
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.154
+    Interface: all
+    Epoch Time: 1754113391.0194433
+--------------------------------------------------
+[2025-08-02 11:13:13] Suspicious ARP Request Detected
+    Frame #1159
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113393.0924542
+--------------------------------------------------
+[2025-08-02 11:13:13] Suspicious ARP Request Detected
+    Frame #1171
+    Source MAC: 50:28:4a:fb:85:f6
+    Source IP: 10.1.154.94
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113393.9191298
+--------------------------------------------------
+[2025-08-02 11:13:13] Suspicious ARP Request Detected
+    Frame #1173
+    Source MAC: 28:d0:43:4e:cb:65
+    Source IP: 10.1.154.30
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113393.9197621
+--------------------------------------------------
+[2025-08-02 11:13:13] Suspicious ARP Request Detected
+    Frame #1175
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113393.9200833
+--------------------------------------------------
+[2025-08-02 11:13:14] Suspicious ARP Request Detected
+    Frame #1183
+    Source MAC: 08:8e:90:a3:13:21
+    Source IP: 10.1.35.77
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113394.5322533
+--------------------------------------------------
+[2025-08-02 11:13:14] Suspicious ARP Request Detected
+    Frame #1188
+    Source MAC: 28:d0:43:4e:cb:65
+    Source IP: 10.1.154.30
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113394.8452816
+--------------------------------------------------
+[2025-08-02 11:13:14] Suspicious ARP Request Detected
+    Frame #1192
+    Source MAC: 50:28:4a:fb:85:f6
+    Source IP: 10.1.154.94
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113394.846419
+--------------------------------------------------
+[2025-08-02 11:13:14] Suspicious ARP Request Detected
+    Frame #1193
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113394.9305167
+--------------------------------------------------
+[2025-08-02 11:13:15] Suspicious ARP Request Detected
+    Frame #1195
+    Source MAC: 08:8e:90:a3:13:21
+    Source IP: 10.1.35.77
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113395.1460297
+--------------------------------------------------
+[2025-08-02 11:13:15] Suspicious ARP Request Detected
+    Frame #1206
+    Source MAC: 28:d0:43:4e:cb:65
+    Source IP: 10.1.154.30
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113395.7524834
+--------------------------------------------------
+[2025-08-02 11:13:15] Suspicious ARP Request Detected
+    Frame #1207
+    Source MAC: 50:28:4a:fb:85:f6
+    Source IP: 10.1.154.94
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113395.752917
+--------------------------------------------------
+[2025-08-02 11:13:16] Suspicious ARP Request Detected
+    Frame #1221
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113396.1639214
+--------------------------------------------------
+[2025-08-02 11:13:16] Suspicious ARP Request Detected
+    Frame #1222
+    Source MAC: 08:8e:90:a3:13:21
+    Source IP: 10.1.35.77
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113396.1643066
+--------------------------------------------------
+[2025-08-02 11:13:16] Suspicious ARP Request Detected
+    Frame #1224
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754113396.5724838
+--------------------------------------------------
+[2025-08-02 11:13:16] Suspicious ARP Request Detected
+    Frame #1225
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754113396.5730886
+--------------------------------------------------
+[2025-08-02 11:13:16] Suspicious ARP Request Detected
+    Frame #1228
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.34.6
+    Interface: all
+    Epoch Time: 1754113396.7850537
+--------------------------------------------------
+[2025-08-02 11:13:16] Suspicious ARP Request Detected
+    Frame #1229
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.33.242
+    Interface: all
+    Epoch Time: 1754113396.7855463
+--------------------------------------------------
+[2025-08-02 11:13:16] Suspicious ARP Request Detected
+    Frame #1234
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.58
+    Interface: all
+    Epoch Time: 1754113396.7866678
+--------------------------------------------------
+[2025-08-02 11:13:16] Suspicious ARP Request Detected
+    Frame #1237
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113396.9908175
+--------------------------------------------------
+[2025-08-02 11:13:17] Suspicious ARP Request Detected
+    Frame #1261
+    Source MAC: 08:8e:90:a3:13:21
+    Source IP: 10.1.35.77
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113397.593454
+--------------------------------------------------
+[2025-08-02 11:13:18] Suspicious ARP Request Detected
+    Frame #1274
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113398.0024946
+--------------------------------------------------
+[2025-08-02 11:13:18] Suspicious ARP Request Detected
+    Frame #1279
+    Source MAC: 08:8e:90:a3:13:21
+    Source IP: 10.1.35.77
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113398.2104456
+--------------------------------------------------
+[2025-08-02 11:13:19] Suspicious ARP Request Detected
+    Frame #1289
+    Source MAC: 08:8e:90:a3:13:21
+    Source IP: 10.1.35.77
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113399.2443922
+--------------------------------------------------
+[2025-08-02 11:13:19] Suspicious ARP Request Detected
+    Frame #1290
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113399.244721
+--------------------------------------------------
+[2025-08-02 11:13:19] Suspicious ARP Request Detected
+    Frame #1294
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.102
+    Interface: all
+    Epoch Time: 1754113399.4500299
+--------------------------------------------------
+[2025-08-02 11:13:19] Suspicious ARP Request Detected
+    Frame #1297
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.33.242
+    Interface: all
+    Epoch Time: 1754113399.6575832
+--------------------------------------------------
+[2025-08-02 11:13:19] Suspicious ARP Request Detected
+    Frame #1298
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.34.6
+    Interface: all
+    Epoch Time: 1754113399.6579738
+--------------------------------------------------
+[2025-08-02 11:13:20] Suspicious ARP Request Detected
+    Frame #1320
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113400.0534902
+--------------------------------------------------
+[2025-08-02 11:13:20] Suspicious ARP Request Detected
+    Frame #1324
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.33.242
+    Interface: all
+    Epoch Time: 1754113400.2593746
+--------------------------------------------------
+[2025-08-02 11:13:20] Suspicious ARP Request Detected
+    Frame #1325
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.34.6
+    Interface: all
+    Epoch Time: 1754113400.2600346
+--------------------------------------------------
+[2025-08-02 11:13:20] Suspicious ARP Request Detected
+    Frame #1328
+    Source MAC: 9c:2f:9d:57:25:f1
+    Source IP: 10.1.154.142
+    Target IP: 10.1.152.10
+    Interface: all
+    Epoch Time: 1754113400.4645398
+--------------------------------------------------
+[2025-08-02 11:13:20] Suspicious ARP Request Detected
+    Frame #1335
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113400.8759644
+--------------------------------------------------
+[2025-08-02 11:13:21] Suspicious ARP Request Detected
+    Frame #1344
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.33.242
+    Interface: all
+    Epoch Time: 1754113401.283084
+--------------------------------------------------
+[2025-08-02 11:13:21] Suspicious ARP Request Detected
+    Frame #1345
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.34.6
+    Interface: all
+    Epoch Time: 1754113401.2835422
+--------------------------------------------------
+[2025-08-02 11:13:21] Suspicious ARP Request Detected
+    Frame #1350
+    Source MAC: 08:8e:90:a3:13:21
+    Source IP: 10.1.35.77
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113401.6933744
+--------------------------------------------------
+[2025-08-02 11:13:22] Suspicious ARP Request Detected
+    Frame #1379
+    Source MAC: 08:8e:90:a3:13:21
+    Source IP: 10.1.35.77
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113402.100061
+--------------------------------------------------
+[2025-08-02 11:13:22] Suspicious ARP Request Detected
+    Frame #1382
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113402.3069992
+--------------------------------------------------
+[2025-08-02 11:13:22] Suspicious ARP Request Detected
+    Frame #1390
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113402.9258728
+--------------------------------------------------
+[2025-08-02 11:13:23] Suspicious ARP Request Detected
+    Frame #1396
+    Source MAC: 08:8e:90:a3:13:21
+    Source IP: 10.1.35.77
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113403.126924
+--------------------------------------------------
+[2025-08-02 11:13:23] Suspicious ARP Request Detected
+    Frame #1402
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.33.242
+    Interface: all
+    Epoch Time: 1754113403.7496192
+--------------------------------------------------
+[2025-08-02 11:13:23] Suspicious ARP Request Detected
+    Frame #1403
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.34.6
+    Interface: all
+    Epoch Time: 1754113403.750126
+--------------------------------------------------
+[2025-08-02 11:13:23] Suspicious ARP Request Detected
+    Frame #1417
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113403.946346
+--------------------------------------------------
+[2025-08-02 11:13:24] Suspicious ARP Request Detected
+    Frame #1425
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.33.242
+    Interface: all
+    Epoch Time: 1754113404.1500266
+--------------------------------------------------
+[2025-08-02 11:13:24] Suspicious ARP Request Detected
+    Frame #1426
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.34.6
+    Interface: all
+    Epoch Time: 1754113404.1507108
+--------------------------------------------------
+[2025-08-02 11:13:25] Suspicious ARP Request Detected
+    Frame #1481
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.33.242
+    Interface: all
+    Epoch Time: 1754113405.1723053
+--------------------------------------------------
+[2025-08-02 11:13:25] Suspicious ARP Request Detected
+    Frame #1482
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.34.6
+    Interface: all
+    Epoch Time: 1754113405.1725905
+--------------------------------------------------
+[2025-08-02 11:13:27] Suspicious ARP Request Detected
+    Frame #1556
+    Source MAC: dc:45:46:dc:50:b9
+    Source IP: 10.1.34.156
+    Target IP: 10.1.32.85
+    Interface: all
+    Epoch Time: 1754113407.2187932
+--------------------------------------------------
+[2025-08-02 11:13:28] Suspicious ARP Request Detected
+    Frame #1583
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.152.10
+    Target IP: 10.1.152.96
+    Interface: all
+    Epoch Time: 1754113408.8695626
+--------------------------------------------------
+[2025-08-02 11:13:29] Suspicious ARP Request Detected
+    Frame #1592
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113409.474502
+--------------------------------------------------
+[2025-08-02 11:13:29] Suspicious ARP Request Detected
+    Frame #1593
+    Source MAC: 08:8e:90:a3:13:21
+    Source IP: 10.1.35.77
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113409.6891732
+--------------------------------------------------
+[2025-08-02 11:13:29] Suspicious ARP Request Detected
+    Frame #1596
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113409.8904595
+--------------------------------------------------
+[2025-08-02 11:13:30] Suspicious ARP Request Detected
+    Frame #1603
+    Source MAC: dc:45:46:dc:50:b9
+    Source IP: 10.1.34.156
+    Target IP: 10.1.32.85
+    Interface: all
+    Epoch Time: 1754113410.0895653
+--------------------------------------------------
+[2025-08-02 11:13:30] Suspicious ARP Request Detected
+    Frame #1607
+    Source MAC: dc:45:46:dc:50:b9
+    Source IP: 10.1.34.156
+    Target IP: 10.1.32.85
+    Interface: all
+    Epoch Time: 1754113410.717827
+--------------------------------------------------
+[2025-08-02 11:13:30] Suspicious ARP Request Detected
+    Frame #1608
+    Source MAC: 08:8e:90:a3:13:21
+    Source IP: 10.1.35.77
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113410.7184856
+--------------------------------------------------
+[2025-08-02 11:13:30] Suspicious ARP Request Detected
+    Frame #1613
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754113410.9243171
+--------------------------------------------------
+[2025-08-02 11:13:31] Suspicious ARP Request Detected
+    Frame #1629
+    Source MAC: dc:45:46:dc:50:b9
+    Source IP: 10.1.34.156
+    Target IP: 10.1.32.85
+    Interface: all
+    Epoch Time: 1754113411.7278209
+--------------------------------------------------
+[2025-08-02 11:13:31] Suspicious ARP Request Detected
+    Frame #1630
+    Source MAC: 08:8e:90:a3:13:21
+    Source IP: 10.1.35.77
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754113411.7282004
+--------------------------------------------------
+[2025-08-02 11:13:31] Suspicious ARP Request Detected
+    Frame #1631
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.34.6
+    Interface: all
+    Epoch Time: 1754113411.7285228
+--------------------------------------------------
+[2025-08-02 11:13:31] Suspicious ARP Request Detected
+    Frame #1632
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.33.242
+    Interface: all
+    Epoch Time: 1754113411.7287955
+--------------------------------------------------
+[2025-08-02 11:13:32] Suspicious ARP Request Detected
+    Frame #1642
+    Source MAC: 4c:b0:4a:0b:27:0a
+    Source IP: 10.1.34.77
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754113412.138113
+--------------------------------------------------
+[2025-08-02 11:13:32] Suspicious ARP Request Detected
+    Frame #1643
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.34.6
+    Interface: all
+    Epoch Time: 1754113412.1387975
+--------------------------------------------------
+[2025-08-02 11:13:32] Suspicious ARP Request Detected
+    Frame #1644
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.33.242
+    Interface: all
+    Epoch Time: 1754113412.1391373
+--------------------------------------------------
+[2025-08-02 11:13:32] Suspicious ARP Request Detected
+    Frame #1649
+    Source MAC: 4c:b0:4a:0b:27:0a
+    Source IP: 10.1.34.77
+    Target IP: 10.1.136.10
+    Interface: all
+    Epoch Time: 1754113412.3431473
+--------------------------------------------------
+[2025-08-02 11:13:33] Suspicious ARP Request Detected
+    Frame #1653
+    Source MAC: 4c:b0:4a:0b:27:0a
+    Source IP: 10.1.34.77
+    Target IP: 10.1.136.10
+    Interface: all
+    Epoch Time: 1754113413.1698804
+--------------------------------------------------
+[2025-08-02 11:13:33] Suspicious ARP Request Detected
+    Frame #1654
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.34.6
+    Interface: all
+    Epoch Time: 1754113413.1704004
+--------------------------------------------------
+[2025-08-02 11:13:33] Suspicious ARP Request Detected
+    Frame #1655
+    Source MAC: 14:d4:24:a2:6e:6f
+    Source IP: 10.1.34.185
+    Target IP: 10.1.33.242
+    Interface: all
+    Epoch Time: 1754113413.1707072
+--------------------------------------------------
+[2025-08-02 11:13:33] Suspicious ARP Request Detected
+    Frame #1672
+    Source MAC: dc:45:46:dc:50:b9
+    Source IP: 10.1.34.156
+    Target IP: 10.1.32.85
+    Interface: all
+    Epoch Time: 1754113413.9812639
+--------------------------------------------------
+[2025-08-02 11:13:34] Suspicious ARP Request Detected
+    Frame #1681
+    Source MAC: 4c:b0:4a:0b:27:0a
+    Source IP: 10.1.34.77
+    Target IP: 10.1.136.10
+    Interface: all
+    Epoch Time: 1754113414.182454
+--------------------------------------------------
+[2025-08-02 11:49:16] Suspicious ARP Request Detected
+    Frame #62
+    Source MAC: 7c:f0:e5:2a:e6:05
+    Source IP: 10.1.78.15
+    Target IP: 10.1.78.64
+    Interface: all
+    Epoch Time: 1754115556.0192392
+--------------------------------------------------
+[2025-08-02 11:49:16] Suspicious ARP Request Detected
+    Frame #88
+    Source MAC: 7c:f0:e5:2a:e6:05
+    Source IP: 10.1.78.15
+    Target IP: 10.1.78.64
+    Interface: all
+    Epoch Time: 1754115556.8419795
+--------------------------------------------------
+[2025-08-02 11:49:16] Suspicious ARP Request Detected
+    Frame #89
+    Source MAC: f6:fb:76:b5:3d:55
+    Source IP: 10.1.78.18
+    Target IP: 10.1.78.255
+    Interface: all
+    Epoch Time: 1754115556.8426445
+--------------------------------------------------
+[2025-08-02 11:49:17] Suspicious ARP Request Detected
+    Frame #93
+    Source MAC: 7c:f0:e5:2a:e6:05
+    Source IP: 10.1.78.15
+    Target IP: 10.1.78.64
+    Interface: all
+    Epoch Time: 1754115557.6567283
+--------------------------------------------------
+[2025-08-02 11:49:17] Suspicious ARP Request Detected
+    Frame #94
+    Source MAC: 7c:f0:e5:2a:e6:05
+    Source IP: 10.1.78.15
+    Target IP: 10.1.78.17
+    Interface: all
+    Epoch Time: 1754115557.657469
+--------------------------------------------------
+[2025-08-02 11:49:17] Suspicious ARP Request Detected
+    Frame #95
+    Source MAC: 50:5a:65:7c:dc:a3
+    Source IP: 10.1.32.91
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754115557.6578567
+--------------------------------------------------
+[2025-08-02 11:49:19] Suspicious ARP Request Detected
+    Frame #113
+    Source MAC: 7c:f0:e5:2a:e6:05
+    Source IP: 10.1.78.15
+    Target IP: 10.1.78.64
+    Interface: all
+    Epoch Time: 1754115559.090984
+--------------------------------------------------
+[2025-08-02 11:49:19] Suspicious ARP Request Detected
+    Frame #114
+    Source MAC: 7c:f0:e5:2a:e6:05
+    Source IP: 10.1.78.15
+    Target IP: 10.1.78.17
+    Interface: all
+    Epoch Time: 1754115559.0916464
+--------------------------------------------------
+[2025-08-02 11:49:19] Suspicious ARP Request Detected
+    Frame #124
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754115559.5015004
+--------------------------------------------------
+[2025-08-02 11:49:19] Suspicious ARP Request Detected
+    Frame #152
+    Source MAC: 7c:f0:e5:2a:e6:05
+    Source IP: 10.1.78.15
+    Target IP: 10.1.78.17
+    Interface: all
+    Epoch Time: 1754115559.9136343
+--------------------------------------------------
+[2025-08-02 11:49:19] Suspicious ARP Request Detected
+    Frame #161
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754115559.9149334
+--------------------------------------------------
+[2025-08-02 11:49:20] Suspicious ARP Request Detected
+    Frame #166
+    Source MAC: 50:5a:65:7c:dc:a3
+    Source IP: 10.1.32.91
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754115560.1192453
+--------------------------------------------------
+[2025-08-02 11:49:20] Suspicious ARP Request Detected
+    Frame #227
+    Source MAC: 7c:f0:e5:2a:e6:05
+    Source IP: 10.1.78.15
+    Target IP: 10.1.78.17
+    Interface: all
+    Epoch Time: 1754115560.732235
+--------------------------------------------------
+[2025-08-02 11:49:20] Suspicious ARP Request Detected
+    Frame #228
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.35.4
+    Interface: all
+    Epoch Time: 1754115560.7328663
+--------------------------------------------------
+[2025-08-02 11:49:20] Suspicious ARP Request Detected
+    Frame #270
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754115560.942616
+--------------------------------------------------
+[2025-08-02 11:49:21] Suspicious ARP Request Detected
+    Frame #281
+    Source MAC: 50:5a:65:7c:dc:a3
+    Source IP: 10.1.32.91
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1754115561.1444185
+--------------------------------------------------
+[2025-08-02 11:49:21] Suspicious ARP Request Detected
+    Frame #282
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.35.4
+    Interface: all
+    Epoch Time: 1754115561.1448164
+--------------------------------------------------
+[2025-08-02 11:49:21] Suspicious ARP Request Detected
+    Frame #296
+    Source MAC: 7c:f0:e5:2a:e6:05
+    Source IP: 10.1.78.15
+    Target IP: 10.1.78.17
+    Interface: all
+    Epoch Time: 1754115561.34964
+--------------------------------------------------
+[2025-08-02 11:49:21] Suspicious ARP Request Detected
+    Frame #316
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.35.4
+    Interface: all
+    Epoch Time: 1754115561.5547931
+--------------------------------------------------
+[2025-08-02 11:49:22] Suspicious ARP Request Detected
+    Frame #331
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.35.4
+    Interface: all
+    Epoch Time: 1754115562.1669722
+--------------------------------------------------
+[2025-08-02 11:49:23] Suspicious ARP Request Detected
+    Frame #374
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.35.4
+    Interface: all
+    Epoch Time: 1754115563.1868927
+--------------------------------------------------
+[2025-08-02 11:49:24] Suspicious ARP Request Detected
+    Frame #502
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.35.4
+    Interface: all
+    Epoch Time: 1754115564.2149992
+--------------------------------------------------
+[2025-08-02 11:49:24] Suspicious ARP Request Detected
+    Frame #610
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.78.10
+    Target IP: 10.1.78.70
+    Interface: all
+    Epoch Time: 1754115564.6370542
+--------------------------------------------------
+[2025-08-02 11:50:02] Suspicious ARP Request Detected
+    Frame #7
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.78.10
+    Target IP: 10.1.78.66
+    Interface: all
+    Epoch Time: 1754115602.7142646
+--------------------------------------------------
+[2025-08-02 11:50:03] Suspicious ARP Request Detected
+    Frame #11
+    Source MAC: cc:5e:f8:52:43:c3
+    Source IP: 10.1.152.36
+    Target IP: 10.1.152.10
+    Interface: all
+    Epoch Time: 1754115603.737525
+--------------------------------------------------
+[2025-08-02 11:50:05] Suspicious ARP Request Detected
+    Frame #42
+    Source MAC: 14:d4:24:93:30:9b
+    Source IP: 10.1.34.209
+    Target IP: 10.1.34.48
+    Interface: all
+    Epoch Time: 1754115605.1749501
+--------------------------------------------------
+[2025-08-02 11:50:06] Suspicious ARP Request Detected
+    Frame #79
+    Source MAC: 14:d4:24:93:30:9b
+    Source IP: 10.1.34.209
+    Target IP: 10.1.34.48
+    Interface: all
+    Epoch Time: 1754115606.1997209
+--------------------------------------------------
+[2025-08-02 11:50:06] Suspicious ARP Request Detected
+    Frame #80
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.78.10
+    Target IP: 10.1.78.66
+    Interface: all
+    Epoch Time: 1754115606.2001786
+--------------------------------------------------
+[2025-08-02 11:50:06] Suspicious ARP Request Detected
+    Frame #81
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.143
+    Interface: all
+    Epoch Time: 1754115606.4821916
+--------------------------------------------------
+[2025-08-02 11:50:06] Suspicious ARP Request Detected
+    Frame #82
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.32.177
+    Interface: all
+    Epoch Time: 1754115606.6174114
+--------------------------------------------------
+[2025-08-02 11:50:06] Suspicious ARP Request Detected
+    Frame #87
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.78.10
+    Target IP: 10.1.78.66
+    Interface: all
+    Epoch Time: 1754115606.8186896
+--------------------------------------------------
+[2025-08-02 11:50:07] Suspicious ARP Request Detected
+    Frame #90
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.78.10
+    Target IP: 10.1.78.60
+    Interface: all
+    Epoch Time: 1754115607.0207005
+--------------------------------------------------
+[2025-08-02 11:50:07] Suspicious ARP Request Detected
+    Frame #92
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.32.37
+    Interface: all
+    Epoch Time: 1754115607.021351
+--------------------------------------------------
+[2025-08-02 11:50:07] Suspicious ARP Request Detected
+    Frame #96
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.78.10
+    Target IP: 10.1.78.66
+    Interface: all
+    Epoch Time: 1754115607.2280068
+--------------------------------------------------
+[2025-08-02 11:50:07] Suspicious ARP Request Detected
+    Frame #113
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.143
+    Interface: all
+    Epoch Time: 1754115607.4825697
+--------------------------------------------------
+[2025-08-02 11:50:07] Suspicious ARP Request Detected
+    Frame #125
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.78.10
+    Target IP: 10.1.78.66
+    Interface: all
+    Epoch Time: 1754115607.8371623
+--------------------------------------------------
+[2025-08-02 11:50:07] Suspicious ARP Request Detected
+    Frame #126
+    Source MAC: 14:d4:24:93:30:9b
+    Source IP: 10.1.34.209
+    Target IP: 10.1.34.48
+    Interface: all
+    Epoch Time: 1754115607.83778
+--------------------------------------------------
+[2025-08-02 11:50:08] Suspicious ARP Request Detected
+    Frame #130
+    Source MAC: 80:38:fb:cf:e6:c6
+    Source IP: 0.0.0.0
+    Target IP: 10.1.152.20
+    Interface: all
+    Epoch Time: 1754115608.0428922
+--------------------------------------------------
+[2025-08-02 11:50:08] Suspicious ARP Request Detected
+    Frame #143
+    Source MAC: 80:38:fb:cf:e6:c6
+    Source IP: 10.1.152.20
+    Target IP: 10.1.152.10
+    Interface: all
+    Epoch Time: 1754115608.2476702
+--------------------------------------------------
+[2025-08-02 11:50:08] Suspicious ARP Request Detected
+    Frame #144
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754115608.2481132
+--------------------------------------------------
+[2025-08-02 11:50:08] Suspicious ARP Request Detected
+    Frame #156
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.143
+    Interface: all
+    Epoch Time: 1754115608.4832556
+--------------------------------------------------
+[2025-08-02 11:50:08] Suspicious ARP Request Detected
+    Frame #158
+    Source MAC: 14:d4:24:93:30:9b
+    Source IP: 10.1.34.209
+    Target IP: 10.1.34.48
+    Interface: all
+    Epoch Time: 1754115608.6614792
+--------------------------------------------------
+[2025-08-02 11:50:08] Suspicious ARP Request Detected
+    Frame #159
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.78.10
+    Target IP: 10.1.78.66
+    Interface: all
+    Epoch Time: 1754115608.870128
+--------------------------------------------------
+[2025-08-02 11:50:09] Suspicious ARP Request Detected
+    Frame #160
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754115609.071092
+--------------------------------------------------
+[2025-08-02 11:50:09] Suspicious ARP Request Detected
+    Frame #161
+    Source MAC: 80:38:fb:cf:e6:c6
+    Source IP: 0.0.0.0
+    Target IP: 10.1.152.20
+    Interface: all
+    Epoch Time: 1754115609.0718107
+--------------------------------------------------
+[2025-08-02 11:50:09] Suspicious ARP Request Detected
+    Frame #182
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.143
+    Interface: all
+    Epoch Time: 1754115609.4835033
+--------------------------------------------------
+[2025-08-02 11:50:09] Suspicious ARP Request Detected
+    Frame #196
+    Source MAC: 14:d4:24:93:30:9b
+    Source IP: 10.1.34.209
+    Target IP: 10.1.34.48
+    Interface: all
+    Epoch Time: 1754115609.6768765
+--------------------------------------------------
+[2025-08-02 11:50:09] Suspicious ARP Request Detected
+    Frame #197
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.78.10
+    Target IP: 10.1.78.66
+    Interface: all
+    Epoch Time: 1754115609.6774666
+--------------------------------------------------
+[2025-08-02 11:50:09] Suspicious ARP Request Detected
+    Frame #202
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754115609.8816805
+--------------------------------------------------
+[2025-08-02 11:50:10] Suspicious ARP Request Detected
+    Frame #205
+    Source MAC: 7c:f0:e5:2a:e6:05
+    Source IP: 10.1.78.15
+    Target IP: 10.1.78.64
+    Interface: all
+    Epoch Time: 1754115610.0864513
+--------------------------------------------------
+[2025-08-02 11:50:10] Suspicious ARP Request Detected
+    Frame #211
+    Source MAC: 80:38:fb:cf:e6:c6
+    Source IP: 0.0.0.0
+    Target IP: 10.1.152.20
+    Interface: all
+    Epoch Time: 1754115610.0881577
+--------------------------------------------------
+[2025-08-02 11:50:10] Suspicious ARP Request Detected
+    Frame #214
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.143
+    Interface: all
+    Epoch Time: 1754115610.484049
+--------------------------------------------------
+[2025-08-02 11:50:10] Suspicious ARP Request Detected
+    Frame #215
+    Source MAC: 94:bb:43:7e:0a:6f
+    Source IP: 10.1.34.154
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754115610.497551
+--------------------------------------------------
+[2025-08-02 11:50:10] Suspicious ARP Request Detected
+    Frame #217
+    Source MAC: 7c:f0:e5:2a:e6:05
+    Source IP: 10.1.78.15
+    Target IP: 10.1.78.64
+    Interface: all
+    Epoch Time: 1754115610.7047024
+--------------------------------------------------
+[2025-08-02 11:50:10] Suspicious ARP Request Detected
+    Frame #221
+    Source MAC: 94:bb:43:7e:0a:6f
+    Source IP: 10.1.34.154
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754115610.9101322
+--------------------------------------------------
+[2025-08-02 11:50:10] Suspicious ARP Request Detected
+    Frame #222
+    Source MAC: 94:bb:43:7e:0a:6f
+    Source IP: 10.1.34.154
+    Target IP: 10.1.99.100
+    Interface: all
+    Epoch Time: 1754115610.9106693
+--------------------------------------------------
+[2025-08-02 11:50:11] Suspicious ARP Request Detected
+    Frame #227
+    Source MAC: 80:38:fb:cf:e6:c6
+    Source IP: 0.0.0.0
+    Target IP: 10.1.152.20
+    Interface: all
+    Epoch Time: 1754115611.114664
+--------------------------------------------------
+[2025-08-02 11:50:11] Suspicious ARP Request Detected
+    Frame #233
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.143
+    Interface: all
+    Epoch Time: 1754115611.4849145
+--------------------------------------------------
+[2025-08-02 11:50:11] Suspicious ARP Request Detected
+    Frame #234
+    Source MAC: 7c:f0:e5:2a:e6:05
+    Source IP: 10.1.78.15
+    Target IP: 10.1.78.64
+    Interface: all
+    Epoch Time: 1754115611.5201023
+--------------------------------------------------
+[2025-08-02 11:50:11] Suspicious ARP Request Detected
+    Frame #257
+    Source MAC: 14:d4:24:93:30:9b
+    Source IP: 10.1.34.209
+    Target IP: 10.1.34.48
+    Interface: all
+    Epoch Time: 1754115611.9296384
+--------------------------------------------------
+[2025-08-02 11:50:11] Suspicious ARP Request Detected
+    Frame #258
+    Source MAC: 94:bb:43:7e:0a:6f
+    Source IP: 10.1.34.154
+    Target IP: 10.1.99.100
+    Interface: all
+    Epoch Time: 1754115611.9302218
+--------------------------------------------------
+[2025-08-02 11:50:12] Suspicious ARP Request Detected
+    Frame #267
+    Source MAC: 80:38:fb:cf:e6:c6
+    Source IP: 10.1.152.20
+    Target IP: 10.1.152.20
+    Interface: all
+    Epoch Time: 1754115612.1351268
+--------------------------------------------------
+[2025-08-02 11:50:12] Suspicious ARP Request Detected
+    Frame #268
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.152.10
+    Target IP: 10.1.154.156
+    Interface: all
+    Epoch Time: 1754115612.1355608
+--------------------------------------------------
+[2025-08-02 11:50:12] Suspicious ARP Request Detected
+    Frame #270
+    Source MAC: 7c:f0:e5:2a:e6:05
+    Source IP: 10.1.78.15
+    Target IP: 10.1.78.64
+    Interface: all
+    Epoch Time: 1754115612.3429012
+--------------------------------------------------
+[2025-08-02 11:50:12] Suspicious ARP Request Detected
+    Frame #272
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.143
+    Interface: all
+    Epoch Time: 1754115612.48489
+--------------------------------------------------
+[2025-08-02 11:50:12] Suspicious ARP Request Detected
+    Frame #281
+    Source MAC: 14:d4:24:93:30:9b
+    Source IP: 10.1.34.209
+    Target IP: 10.1.34.48
+    Interface: all
+    Epoch Time: 1754115612.74891
+--------------------------------------------------
+[2025-08-02 11:50:12] Suspicious ARP Request Detected
+    Frame #284
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.152.10
+    Target IP: 10.1.152.138
+    Interface: all
+    Epoch Time: 1754115612.7499993
+--------------------------------------------------
+[2025-08-02 11:50:12] Suspicious ARP Request Detected
+    Frame #285
+    Source MAC: 94:bb:43:7e:0a:6f
+    Source IP: 10.1.34.154
+    Target IP: 10.1.99.100
+    Interface: all
+    Epoch Time: 1754115612.7502954
+--------------------------------------------------
+[2025-08-02 11:50:13] Suspicious ARP Request Detected
+    Frame #288
+    Source MAC: 7c:f0:e5:2a:e6:05
+    Source IP: 10.1.78.15
+    Target IP: 10.1.78.64
+    Interface: all
+    Epoch Time: 1754115613.1617596
+--------------------------------------------------
+[2025-08-02 11:50:13] Suspicious ARP Request Detected
+    Frame #295
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.143
+    Interface: all
+    Epoch Time: 1754115613.4853828
+--------------------------------------------------
+[2025-08-02 11:50:13] Suspicious ARP Request Detected
+    Frame #310
+    Source MAC: 14:d4:24:93:30:9b
+    Source IP: 10.1.34.209
+    Target IP: 10.1.34.48
+    Interface: all
+    Epoch Time: 1754115613.7729561
+--------------------------------------------------
+[2025-08-02 11:50:13] Suspicious ARP Request Detected
+    Frame #311
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.35.77
+    Interface: all
+    Epoch Time: 1754115613.7737043
+--------------------------------------------------
+[2025-08-02 11:50:13] Suspicious ARP Request Detected
+    Frame #321
+    Source MAC: 7c:f0:e5:2a:e6:05
+    Source IP: 10.1.78.15
+    Target IP: 10.1.78.64
+    Interface: all
+    Epoch Time: 1754115613.978629
+--------------------------------------------------
+[2025-08-02 11:50:14] Suspicious ARP Request Detected
+    Frame #327
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.78.10
+    Target IP: 10.1.78.66
+    Interface: all
+    Epoch Time: 1754115614.3872807
+--------------------------------------------------
+[2025-08-02 11:50:14] Suspicious ARP Request Detected
+    Frame #331
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.143
+    Interface: all
+    Epoch Time: 1754115614.4860525
+--------------------------------------------------
+[2025-08-02 11:50:14] Suspicious ARP Request Detected
+    Frame #340
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.78.10
+    Target IP: 10.1.78.66
+    Interface: all
+    Epoch Time: 1754115614.8006268
+--------------------------------------------------
+[2025-08-02 11:50:15] Suspicious ARP Request Detected
+    Frame #341
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.78.10
+    Target IP: 10.1.78.66
+    Interface: all
+    Epoch Time: 1754115615.219082
+--------------------------------------------------
+[2025-08-02 11:50:15] Suspicious ARP Request Detected
+    Frame #343
+    Source MAC: f6:fb:76:b5:3d:55
+    Source IP: 10.1.78.18
+    Target IP: 10.1.78.255
+    Interface: all
+    Epoch Time: 1754115615.4233506
+--------------------------------------------------
+[2025-08-02 11:50:15] Suspicious ARP Request Detected
+    Frame #345
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.78.10
+    Target IP: 10.1.78.66
+    Interface: all
+    Epoch Time: 1754115615.8340027
+--------------------------------------------------
+[2025-08-02 11:50:16] Suspicious ARP Request Detected
+    Frame #386
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754115616.230403
+--------------------------------------------------
+[2025-08-02 11:50:16] Suspicious ARP Request Detected
+    Frame #387
+    Source MAC: f6:fb:76:b5:3d:55
+    Source IP: 10.1.78.18
+    Target IP: 10.1.78.255
+    Interface: all
+    Epoch Time: 1754115616.2308192
+--------------------------------------------------
+[2025-08-02 11:50:16] Suspicious ARP Request Detected
+    Frame #415
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.78.10
+    Target IP: 10.1.78.66
+    Interface: all
+    Epoch Time: 1754115616.858143
+--------------------------------------------------
+[2025-08-02 11:50:16] Suspicious ARP Request Detected
+    Frame #416
+    Source MAC: f6:fb:76:b5:3d:55
+    Source IP: 10.1.78.18
+    Target IP: 10.1.78.255
+    Interface: all
+    Epoch Time: 1754115616.8591897
+--------------------------------------------------
+[2025-08-02 11:50:17] Suspicious ARP Request Detected
+    Frame #417
+    Source MAC: 70:9c:d1:f4:51:b4
+    Source IP: 10.1.154.148
+    Target IP: 10.1.152.116
+    Interface: all
+    Epoch Time: 1754115617.062192
+--------------------------------------------------
+[2025-08-02 11:50:17] Suspicious ARP Request Detected
+    Frame #418
+    Source MAC: 7c:f0:e5:2a:e6:05
+    Source IP: 10.1.78.15
+    Target IP: 10.1.78.17
+    Interface: all
+    Epoch Time: 1754115617.0627782
+--------------------------------------------------
+[2025-08-02 11:50:17] Suspicious ARP Request Detected
+    Frame #422
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.78.10
+    Target IP: 10.1.78.66
+    Interface: all
+    Epoch Time: 1754115617.8833117
+--------------------------------------------------
+[2025-08-02 11:50:17] Suspicious ARP Request Detected
+    Frame #423
+    Source MAC: 7c:f0:e5:2a:e6:05
+    Source IP: 10.1.78.15
+    Target IP: 10.1.78.17
+    Interface: all
+    Epoch Time: 1754115617.8841567
+--------------------------------------------------
+[2025-08-02 11:51:25] Suspicious ARP Request Detected
+    Frame #4
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.32.110
+    Interface: all
+    Epoch Time: 1754115685.462923
+--------------------------------------------------
+[2025-08-02 11:51:26] Suspicious ARP Request Detected
+    Frame #21
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.34.93
+    Interface: all
+    Epoch Time: 1754115686.0772667
+--------------------------------------------------
+[2025-08-02 11:51:27] Suspicious ARP Request Detected
+    Frame #66
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.154
+    Interface: all
+    Epoch Time: 1754115687.5668695
+--------------------------------------------------
+[2025-08-02 11:51:28] Suspicious ARP Request Detected
+    Frame #100
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.154
+    Interface: all
+    Epoch Time: 1754115688.6184723
+--------------------------------------------------
+[2025-08-02 11:51:29] Suspicious ARP Request Detected
+    Frame #137
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.154
+    Interface: all
+    Epoch Time: 1754115689.643596
+--------------------------------------------------
+[2025-08-02 11:51:30] Suspicious ARP Request Detected
+    Frame #229
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.154
+    Interface: all
+    Epoch Time: 1754115690.6786609
+--------------------------------------------------
+[2025-08-02 11:51:31] Suspicious ARP Request Detected
+    Frame #245
+    Source MAC: f8:54:f6:65:ee:19
+    Source IP: 10.1.34.137
+    Target IP: 10.1.34.96
+    Interface: all
+    Epoch Time: 1754115691.4060397
+--------------------------------------------------
+[2025-08-02 11:51:31] Suspicious ARP Request Detected
+    Frame #246
+    Source MAC: 50:5a:65:b1:1c:69
+    Source IP: 10.1.34.60
+    Target IP: 10.1.34.96
+    Interface: all
+    Epoch Time: 1754115691.406482
+--------------------------------------------------
+[2025-08-02 11:51:31] Suspicious ARP Request Detected
+    Frame #247
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.35.143
+    Target IP: 10.1.35.154
+    Interface: all
+    Epoch Time: 1754115691.6907535
+--------------------------------------------------
+[2025-08-02 11:51:32] Suspicious ARP Request Detected
+    Frame #263
+    Source MAC: b8:1e:a4:d8:3d:0f
+    Source IP: 10.1.35.54
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754115692.0078259
+--------------------------------------------------
+[2025-08-02 11:51:32] Suspicious ARP Request Detected
+    Frame #281
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.35.196
+    Interface: all
+    Epoch Time: 1754115692.6268892[2025-08-12 15:43:40] Possible ARP Scan Detected!
+    Frame #484
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Targets: ['10.1.154.127', '10.1.32.182', '10.1.152.61', '10.1.34.170', '10.1.152.53', '10.1.32.87']
+    Interface: all
+    Epoch Time: 1754993620.309777
+--------------------------------------------------
+[2025-08-12 15:43:51] Possible ARP Scan Detected!
+    Frame #633
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Targets: ['10.1.154.127', '10.1.32.182', '10.1.152.61', '10.1.34.170', '10.1.152.53', '10.1.32.87', '10.1.32.150']
+    Interface: all
+    Epoch Time: 1754993631.3776343
+--------------------------------------------------
+[2025-08-12 15:50:37] Suspicious ARP Request Detected
+    Frame #23
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+    Interface: all
+    Epoch Time: 1754994037.994512
+--------------------------------------------------
+[2025-08-12 15:50:38] Suspicious ARP Request Detected
+    Frame #33
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+    Interface: all
+    Epoch Time: 1754994038.9958684
+--------------------------------------------------
+[2025-08-12 15:50:39] Suspicious ARP Request Detected
+    Frame #46
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+    Interface: all
+    Epoch Time: 1754994039.997314
+--------------------------------------------------
+[2025-08-12 15:50:40] Suspicious ARP Request Detected
+    Frame #60
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+    Interface: all
+    Epoch Time: 1754994040.9987469
+--------------------------------------------------
+[2025-08-12 15:50:41] Suspicious ARP Request Detected
+    Frame #62
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+    Interface: all
+    Epoch Time: 1754994042.0001912
+--------------------------------------------------
+[2025-08-12 15:50:43] Suspicious ARP Request Detected
+    Frame #67
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+    Interface: all
+    Epoch Time: 1754994043.0013611
+--------------------------------------------------
+[2025-08-12 15:50:44] Suspicious ARP Request Detected
+    Frame #85
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+    Interface: all
+    Epoch Time: 1754994044.002008
+--------------------------------------------------
+[2025-08-12 15:50:44] Suspicious ARP Request Detected
+    Frame #88
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.35.94
+    Interface: all
+    Epoch Time: 1754994044.9270136
+--------------------------------------------------
+[2025-08-12 15:50:45] Suspicious ARP Request Detected
+    Frame #90
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+    Interface: all
+    Epoch Time: 1754994045.0021925
+--------------------------------------------------
+[2025-08-12 15:50:46] Suspicious ARP Request Detected
+    Frame #105
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+    Interface: all
+    Epoch Time: 1754994046.0030801
+--------------------------------------------------
+[2025-08-12 15:50:46] Suspicious ARP Request Detected
+    Frame #109
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.32.119
+    Interface: all
+    Epoch Time: 1754994046.9883401
+--------------------------------------------------
+[2025-08-12 15:50:47] Suspicious ARP Request Detected
+    Frame #111
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+    Interface: all
+    Epoch Time: 1754994047.0032308
+--------------------------------------------------
+[2025-08-12 15:50:48] Suspicious ARP Request Detected
+    Frame #130
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+    Interface: all
+    Epoch Time: 1754994048.003966
+--------------------------------------------------
+[2025-08-12 15:50:49] Suspicious ARP Request Detected
+    Frame #136
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+    Interface: all
+    Epoch Time: 1754994049.005035
+--------------------------------------------------
+[2025-08-12 15:50:50] Suspicious ARP Request Detected
+    Frame #138
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+    Interface: all
+    Epoch Time: 1754994050.0059614
+--------------------------------------------------
+[2025-08-12 15:50:51] Suspicious ARP Request Detected
+    Frame #156
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+    Interface: all
+    Epoch Time: 1754994051.0071251
+--------------------------------------------------
+[2025-08-12 15:53:50] Suspicious ARP Request Detected
+    Frame #1
+    Source MAC: cc:5e:f8:52:43:c3
+    Source IP: 10.1.152.36
+    Target IP: 10.1.152.10
+    Interface: all
+    Epoch Time: 1754994230.9033344
+--------------------------------------------------
+[2025-08-12 15:53:51] Suspicious ARP Request Detected
+    Frame #5
+    Source MAC: f0:77:c3:fd:af:e8
+    Source IP: 10.1.33.88
+    Target IP: 10.1.32.10
+    Interface: all
+    Epoch Time: 1754994231.1089044
+--------------------------------------------------
+[2025-08-12 15:53:51] Suspicious ARP Request Detected
+    Frame #7
+    Source MAC: cc:5e:f8:52:43:c3
+    Source IP: 10.1.152.36
+    Target IP: 10.1.152.10
+    Interface: all
+    Epoch Time: 1754994231.5128198
+--------------------------------------------------
+[2025-08-12 15:53:53] Suspicious ARP Request Detected
+    Frame #34
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.33.31
+    Interface: all
+    Epoch Time: 1754994233.2540894
+--------------------------------------------------
+[2025-08-12 15:53:53] Suspicious ARP Request Detected
+    Frame #40
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.152.10
+    Target IP: 10.1.152.24
+    Interface: all
+    Epoch Time: 1754994233.3424497
+--------------------------------------------------
+[2025-08-12 15:53:53] Suspicious ARP Request Detected
+    Frame #46
+    Source MAC: cc:5e:f8:52:43:c3
+    Source IP: 10.1.152.36
+    Target IP: 10.1.152.10
+    Interface: all
+    Epoch Time: 1754994233.7522883
+--------------------------------------------------
+[2025-08-12 15:53:54] Suspicious ARP Request Detected
+    Frame #49
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.33.31
+    Interface: all
+    Epoch Time: 1754994234.255042
+--------------------------------------------------
+[2025-08-12 15:53:55] Suspicious ARP Request Detected
+    Frame #51
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.33.31
+    Interface: all
+    Epoch Time: 1754994235.2561364
+--------------------------------------------------
+[2025-08-12 15:53:56] Suspicious ARP Request Detected
+    Frame #66
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.33.31
+    Interface: all
+    Epoch Time: 1754994236.2570078
+--------------------------------------------------
+[2025-08-12 15:53:57] Suspicious ARP Request Detected
+    Frame #72
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.33.31
+    Interface: all
+    Epoch Time: 1754994237.258153
+--------------------------------------------------
+[2025-08-12 15:53:58] Suspicious ARP Request Detected
+    Frame #77
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.33.31
+    Interface: all
+    Epoch Time: 1754994238.2594995
+--------------------------------------------------
+[2025-08-12 15:53:59] Suspicious ARP Request Detected
+    Frame #88
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.66
+    Interface: all
+    Epoch Time: 1754994239.0949469
+--------------------------------------------------
+[2025-08-12 15:53:59] Suspicious ARP Request Detected
+    Frame #89
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.33.31
+    Interface: all
+    Epoch Time: 1754994239.259699
+--------------------------------------------------
+[2025-08-12 15:54:00] Suspicious ARP Request Detected
+    Frame #96
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.33.31
+    Interface: all
+    Epoch Time: 1754994240.259914
+--------------------------------------------------
+[2025-08-12 15:54:01] Suspicious ARP Request Detected
+    Frame #104
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.33.31
+    Interface: all
+    Epoch Time: 1754994241.2610705
+--------------------------------------------------
+[2025-08-12 15:54:01] Suspicious ARP Request Detected
+    Frame #105
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.152.10
+    Interface: all
+    Epoch Time: 1754994241.5344086
+--------------------------------------------------
+[2025-08-12 15:54:01] Suspicious ARP Request Detected
+    Frame #108
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.32.110
+    Interface: all
+    Epoch Time: 1754994241.5354967
+--------------------------------------------------
+[2025-08-12 15:54:02] Suspicious ARP Request Detected
+    Frame #114
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.33.31
+    Interface: all
+    Epoch Time: 1754994242.2622478
+--------------------------------------------------
+[2025-08-12 15:54:03] Suspicious ARP Request Detected
+    Frame #120
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.33.31
+    Interface: all
+    Epoch Time: 1754994243.2629802
+--------------------------------------------------
+[2025-08-12 19:22:15] Suspicious ARP Request Detected
+    Frame #13
+    Source MAC: cc:47:40:84:c6:43
+    Source IP: 10.1.74.234
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1755006735.791495
+--------------------------------------------------
+[2025-08-12 19:22:54] Suspicious ARP Request Detected
+    Frame #1
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.103
+    Interface: all
+    Epoch Time: 1755006774.680727
+--------------------------------------------------
+[2025-08-12 19:25:07] Suspicious ARP Request Detected
+    Frame #11
+    Source MAC: 50:5a:65:7d:2a:cb
+    Source IP: 10.1.74.139
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1755006907.4984043
+--------------------------------------------------
+[2025-08-12 19:27:25] Suspicious ARP Request Detected
+    Frame #12
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.103
+    Interface: all
+    Epoch Time: 1755007045.0697827
+--------------------------------------------------
+[2025-08-12 19:28:42] Suspicious ARP Request Detected
+    Frame #58
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.72.10
+    Target IP: 10.1.74.227
+    Interface: all
+    Epoch Time: 1755007122.3243656
+--------------------------------------------------
+[2025-08-12 19:28:43] Suspicious ARP Request Detected
+    Frame #73
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.72.10
+    Target IP: 10.1.74.180
+    Interface: all
+    Epoch Time: 1755007123.1442094
+--------------------------------------------------
+[2025-08-12 19:43:41] Suspicious ARP Request Detected
+    Frame #32
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.103
+    Interface: all
+    Epoch Time: 1755008021.7564774
+--------------------------------------------------
+[2025-08-12 19:45:39] Suspicious ARP Request Detected
+    Frame #24
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.72.10
+    Target IP: 10.1.72.14
+    Interface: all
+    Epoch Time: 1755008139.3745425
+--------------------------------------------------
+[2025-08-12 19:46:18] Suspicious ARP Request Detected
+    Frame #8
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.103
+    Interface: all
+    Epoch Time: 1755008178.5718985
+--------------------------------------------------
+[2025-08-12 19:46:19] Suspicious ARP Request Detected
+    Frame #9
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.103
+    Interface: all
+    Epoch Time: 1755008179.5733309
+--------------------------------------------------
+[2025-08-12 19:46:20] Suspicious ARP Request Detected
+    Frame #10
+    Source MAC: 94:bb:43:42:1d:5d
+    Source IP: 10.1.74.195
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1755008180.1399434
+--------------------------------------------------
+[2025-08-12 19:46:20] Suspicious ARP Request Detected
+    Frame #11
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.103
+    Interface: all
+    Epoch Time: 1755008180.5740116
+--------------------------------------------------
+[2025-08-12 19:46:20] Suspicious ARP Request Detected
+    Frame #21
+    Source MAC: 94:bb:43:42:1d:5d
+    Source IP: 10.1.74.195
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1755008180.9458203
+--------------------------------------------------
+[2025-08-12 19:46:21] Suspicious ARP Request Detected
+    Frame #24
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.103
+    Interface: all
+    Epoch Time: 1755008181.5747676
+--------------------------------------------------
+[2025-08-12 19:46:21] Suspicious ARP Request Detected
+    Frame #25
+    Source MAC: 94:bb:43:42:1d:5d
+    Source IP: 10.1.74.195
+    Target IP: 169.254.169.254
+    Interface: all
+    Epoch Time: 1755008181.9861465
+--------------------------------------------------
+[2025-08-12 19:46:22] Suspicious ARP Request Detected
+    Frame #26
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.103
+    Interface: all
+    Epoch Time: 1755008182.5756767
+--------------------------------------------------
+[2025-08-12 19:46:22] Suspicious ARP Request Detected
+    Frame #42
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.72.10
+    Target IP: 10.1.74.42
+    Interface: all
+    Epoch Time: 1755008182.9938173
+--------------------------------------------------
+[2025-08-12 19:46:23] Suspicious ARP Request Detected
+    Frame #52
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.103
+    Interface: all
+    Epoch Time: 1755008183.5766468
+--------------------------------------------------
+[2025-08-12 19:46:24] Suspicious ARP Request Detected
+    Frame #56
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.103
+    Interface: all
+    Epoch Time: 1755008184.5780663
+--------------------------------------------------
+[2025-08-12 19:46:25] Suspicious ARP Request Detected
+    Frame #67
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.74.204
+    Target IP: 10.1.74.103
+    Interface: all
+    Epoch Time: 1755008185.5795147
+--------------------------------------------------
+[2025-08-12 21:02:37] Suspicious ARP Request
+    Frame #70
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.178.177.196
+    Target IP: 10.178.177.212
+--------------------------------------------------
+[2025-08-12 21:02:37] Suspicious ARP Request
+    Frame #80
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.178.177.196
+    Target IP: 10.178.177.196
+--------------------------------------------------
+[2025-08-12 21:02:37] Suspicious ARP Request
+    Frame #93
+    Source MAC: 02:b0:32:5a:9b:3b
+    Source IP: 10.178.177.212
+    Target IP: 10.178.177.196
+--------------------------------------------------
+[2025-08-12 21:02:38] Suspicious ARP Request
+    Frame #124
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.178.177.196
+    Target IP: 10.178.177.196
+--------------------------------------------------
+[2025-08-12 21:02:39] Suspicious ARP Request
+    Frame #189
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.178.177.196
+    Target IP: 10.178.177.196
+--------------------------------------------------
+[2025-08-12 21:02:40] Suspicious ARP Request
+    Frame #269
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.178.177.196
+    Target IP: 10.178.177.196
+--------------------------------------------------
+[2025-08-12 21:02:41] Suspicious ARP Request
+    Frame #309
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.178.177.196
+    Target IP: 10.178.177.196
+--------------------------------------------------
+[2025-08-12 21:02:42] Suspicious ARP Request
+    Frame #342
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.178.177.196
+    Target IP: 10.178.177.196
+--------------------------------------------------
+[2025-08-12 21:02:43] Suspicious ARP Request
+    Frame #354
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.178.177.196
+    Target IP: 10.178.177.196
+--------------------------------------------------
+[2025-08-12 21:02:44] Suspicious ARP Request
+    Frame #355
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.178.177.196
+    Target IP: 10.178.177.196
+--------------------------------------------------
+[2025-08-12 21:02:45] Suspicious ARP Request
+    Frame #430
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.178.177.196
+    Target IP: 10.178.177.196
+--------------------------------------------------
+[2025-08-12 21:02:46] Suspicious ARP Request
+    Frame #446
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.178.177.196
+    Target IP: 10.178.177.196
+--------------------------------------------------
+[2025-08-12 21:02:47] Suspicious ARP Request
+    Frame #485
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.178.177.196
+    Target IP: 10.178.177.196
+--------------------------------------------------
+    Frame #446
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.178.177.196
+    Target IP: 10.178.177.196
+--------------------------------------------------
+[2025-08-12 21:02:47] Suspicious ARP Request
+    Frame #485
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.178.177.196
+    Target IP: 10.178.177.196
+--------------------------------------------------
+[2025-08-12 21:02:48] Suspicious ARP Request
+    Frame #524
+[2025-08-12 21:02:48] Suspicious ARP Request
+    Frame #524
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.178.177.196
+    Target IP: 10.178.177.196
+--------------------------------------------------
+[2025-08-12 21:02:49] Suspicious ARP Request
+    Frame #619
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.178.177.196
+    Target IP: 10.178.177.196
+--------------------------------------------------
+[2025-08-12 21:02:50] Suspicious ARP Request
+    Frame #622
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.178.177.196
+    Target IP: 10.178.177.196
+--------------------------------------------------
+[2025-08-12 21:02:51] Suspicious ARP Request
+    Frame #632
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.178.177.196
+    Target IP: 10.178.177.196
+--------------------------------------------------
+[2025-08-14 09:46:26] Suspicious ARP Request
+    Frame #28
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:46:30] Suspicious ARP Request
+    Frame #132
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:46:30] Suspicious ARP Request
+    Frame #134
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:46:33] Suspicious ARP Request
+    Frame #809
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:46:34] Suspicious ARP Request
+    Frame #852
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.32.246
+--------------------------------------------------
+[2025-08-14 09:46:38] Suspicious ARP Request
+    Frame #908
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.152.10
+    Target IP: 10.1.152.145
+--------------------------------------------------
+[2025-08-14 09:46:41] Suspicious ARP Request
+    Frame #946
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:46:42] Suspicious ARP Request
+    Frame #952
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:46:43] Suspicious ARP Request
+    Frame #955
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.32.110
+--------------------------------------------------
+[2025-08-14 09:46:45] Suspicious ARP Request
+    Frame #1012
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:46:46] Suspicious ARP Request
+    Frame #1017
+    Source MAC: 2c:3b:70:c8:de:4b
+    Source IP: 10.1.32.242
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:46:47] Suspicious ARP Request
+    Frame #1047
+    Source MAC: e0:d4:e8:25:35:dc
+    Source IP: 10.1.152.109
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:46:49] Suspicious ARP Request
+    Frame #1097
+    Source MAC: e0:d4:e8:25:35:dc
+    Source IP: 10.1.152.109
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:46:50] Suspicious ARP Request
+    Frame #1116
+    Source MAC: e0:d4:e8:25:35:dc
+    Source IP: 10.1.152.109
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:46:50] Suspicious ARP Request
+    Frame #1122
+    Source MAC: e0:d4:e8:25:35:dc
+    Source IP: 10.1.152.109
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:46:51] Suspicious ARP Request
+    Frame #1132
+    Source MAC: e0:d4:e8:25:35:dc
+    Source IP: 10.1.152.109
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:46:51] Suspicious ARP Request
+    Frame #1133
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:46:53] Suspicious ARP Request
+    Frame #1162
+    Source MAC: e0:d4:e8:25:35:dc
+    Source IP: 10.1.152.109
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:46:56] Suspicious ARP Request
+    Frame #1176
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.152.10
+    Target IP: 10.1.154.24
+--------------------------------------------------
+[2025-08-14 09:47:02] Suspicious ARP Request
+    Frame #1232
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.34.165
+--------------------------------------------------
+[2025-08-14 09:47:03] Suspicious ARP Request
+    Frame #1243
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:47:03] Suspicious ARP Request
+    Frame #1244
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.34.165
+--------------------------------------------------
+[2025-08-14 09:47:04] Suspicious ARP Request
+    Frame #1255
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.34.142
+--------------------------------------------------
+[2025-08-14 09:47:08] Suspicious ARP Request
+    Frame #1313
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:47:08] Suspicious ARP Request
+    Frame #1321
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:47:09] Suspicious ARP Request
+    Frame #1326
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.32.14
+--------------------------------------------------
+[2025-08-14 09:47:09] Suspicious ARP Request
+    Frame #1334
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:47:09] Suspicious ARP Request
+    Frame #1349
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:47:10] Suspicious ARP Request
+    Frame #1367
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:47:10] Suspicious ARP Request
+    Frame #1368
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:47:10] Suspicious ARP Request
+    Frame #1369
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:47:10] Suspicious ARP Request
+    Frame #1387
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:47:11] Suspicious ARP Request
+    Frame #1398
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:47:11] Suspicious ARP Request
+    Frame #1401
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:47:12] Suspicious ARP Request
+    Frame #1413
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.50
+--------------------------------------------------
+[2025-08-14 09:47:12] Suspicious ARP Request
+    Frame #1432
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.35.7
+--------------------------------------------------
+[2025-08-14 09:47:12] Suspicious ARP Request
+    Frame #1451
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.50
+--------------------------------------------------
+[2025-08-14 09:47:13] Suspicious ARP Request
+    Frame #1461
+    Source MAC: e4:c7:67:6a:35:74
+    Source IP: 10.1.34.130
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:47:14] Suspicious ARP Request
+    Frame #1501
+    Source MAC: e4:c7:67:6a:35:74
+    Source IP: 10.1.34.130
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:47:15] Suspicious ARP Request
+    Frame #1563
+    Source MAC: e4:c7:67:6a:35:74
+    Source IP: 10.1.34.130
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:47:16] Suspicious ARP Request
+    Frame #1590
+    Source MAC: e4:c7:67:6a:35:74
+    Source IP: 10.1.34.130
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:47:17] Suspicious ARP Request
+    Frame #1610
+    Source MAC: e4:c7:67:6a:35:74
+    Source IP: 10.1.34.130
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:47:17] Suspicious ARP Request
+    Frame #1612
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:47:18] Suspicious ARP Request
+    Frame #1619
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.99.100
+--------------------------------------------------
+[2025-08-14 09:47:18] Suspicious ARP Request
+    Frame #1631
+    Source MAC: e4:c7:67:6a:35:74
+    Source IP: 10.1.34.130
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:47:18] Suspicious ARP Request
+    Frame #1632
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.99.100
+--------------------------------------------------
+[2025-08-14 09:47:18] Suspicious ARP Request
+    Frame #1635
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.99.100
+--------------------------------------------------
+[2025-08-14 09:47:19] Suspicious ARP Request
+    Frame #1676
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:47:20] Suspicious ARP Request
+    Frame #1696
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.99.101
+--------------------------------------------------
+[2025-08-14 09:47:20] Suspicious ARP Request
+    Frame #1714
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.99.101
+--------------------------------------------------
+[2025-08-14 09:47:20] Suspicious ARP Request
+    Frame #1718
+    Source MAC: 8c:8d:28:aa:c5:67
+    Source IP: 10.1.154.40
+    Target IP: 10.1.99.101
+--------------------------------------------------
+[2025-08-14 09:47:20] Suspicious ARP Request
+    Frame #1724
+    Source MAC: 2c:3b:70:c8:de:4b
+    Source IP: 10.1.32.242
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:47:20] Suspicious ARP Request
+    Frame #1725
+    Source MAC: 2c:3b:70:c8:de:4b
+    Source IP: 10.1.32.242
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:47:21] Suspicious ARP Request
+    Frame #1743
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.152.10
+    Target IP: 10.1.152.89
+--------------------------------------------------
+[2025-08-14 09:47:22] Suspicious ARP Request
+    Frame #1771
+    Source MAC: 50:c2:e8:30:b7:25
+    Source IP: 10.1.34.69
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:47:23] Suspicious ARP Request
+    Frame #1804
+    Source MAC: 50:c2:e8:30:b7:25
+    Source IP: 10.1.34.69
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:47:23] Suspicious ARP Request
+    Frame #1805
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.32.237
+--------------------------------------------------
+[2025-08-14 09:47:24] Suspicious ARP Request
+    Frame #1824
+    Source MAC: c0:35:32:e7:e7:81
+    Source IP: 10.1.32.117
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:47:24] Suspicious ARP Request
+    Frame #1824
+    Source MAC: 50:c2:e8:30:b7:25
+    Source IP: 10.1.34.69
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:47:24] Suspicious ARP Request
+    Frame #1835
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:47:24] Suspicious ARP Request
+    Frame #1856
+    Source MAC: c0:35:32:e7:e7:81
+    Source IP: 10.1.32.117
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:47:24] Suspicious ARP Request
+    Frame #1857
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:47:25] Suspicious ARP Request
+    Frame #1874
+    Source MAC: c0:35:32:e7:e7:81
+    Source IP: 10.1.32.117
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:47:25] Suspicious ARP Request
+    Frame #1875
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:47:26] Suspicious ARP Request
+    Frame #1902
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:47:29] Suspicious ARP Request
+    Frame #1939
+    Source MAC: 30:03:c8:e6:03:cf
+    Source IP: 10.1.33.39
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:47:29] Suspicious ARP Request
+    Frame #1955
+    Source MAC: 50:5a:65:c8:c9:27
+    Source IP: 10.1.32.17
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:47:29] Suspicious ARP Request
+    Frame #1972
+    Source MAC: 30:03:c8:e6:03:cf
+    Source IP: 10.1.33.39
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:47:30] Suspicious ARP Request
+    Frame #1976
+    Source MAC: 50:5a:65:c8:c9:27
+    Source IP: 10.1.32.17
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:47:31] Suspicious ARP Request
+    Frame #1986
+    Source MAC: 50:5a:65:c8:c9:27
+    Source IP: 10.1.32.17
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:47:33] Suspicious ARP Request
+    Frame #2029
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.32.145
+--------------------------------------------------
+[2025-08-14 09:47:38] Suspicious ARP Request
+    Frame #2080
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:47:41] Suspicious ARP Request
+    Frame #2127
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.32.87
+--------------------------------------------------
+[2025-08-14 09:47:45] Suspicious ARP Request
+    Frame #2182
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.152.10
+    Target IP: 10.1.154.49
+--------------------------------------------------
+[2025-08-14 09:47:45] Suspicious ARP Request
+    Frame #2193
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:47:51] Suspicious ARP Request
+    Frame #2238
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:47:51] Suspicious ARP Request
+    Frame #2240
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:47:55] Suspicious ARP Request
+    Frame #2280
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:47:59] Suspicious ARP Request
+    Frame #2312
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.152.10
+    Target IP: 10.1.152.178
+--------------------------------------------------
+[2025-08-14 09:48:00] Suspicious ARP Request
+    Frame #2337
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:48:03] Suspicious ARP Request
+    Frame #2378
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 10.1.34.53
+--------------------------------------------------
+[2025-08-14 09:48:03] Suspicious ARP Request
+    Frame #2379
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.32.232
+--------------------------------------------------
+[2025-08-14 09:48:04] Suspicious ARP Request
+    Frame #2405
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:48:05] Suspicious ARP Request
+    Frame #2451
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 10.1.34.53
+--------------------------------------------------
+[2025-08-14 09:48:06] Suspicious ARP Request
+    Frame #2488
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 10.1.34.53
+--------------------------------------------------
+[2025-08-14 09:48:07] Suspicious ARP Request
+    Frame #2497
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.32.250
+--------------------------------------------------
+[2025-08-14 09:48:07] Suspicious ARP Request
+    Frame #2499
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.34.105
+--------------------------------------------------
+[2025-08-14 09:48:07] Suspicious ARP Request
+    Frame #2499
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 10.1.34.53
+--------------------------------------------------
+[2025-08-14 09:48:10] Suspicious ARP Request
+    Frame #2551
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 10.1.34.53
+--------------------------------------------------
+[2025-08-14 09:48:11] Suspicious ARP Request
+    Frame #2563
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.34.126
+--------------------------------------------------
+[2025-08-14 09:48:11] Suspicious ARP Request
+    Frame #2578
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 10.1.34.53
+--------------------------------------------------
+[2025-08-14 09:48:12] Suspicious ARP Request
+    Frame #2585
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:48:13] Suspicious ARP Request
+    Frame #2620
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.152.10
+    Target IP: 10.1.152.41
+--------------------------------------------------
+[2025-08-14 09:48:14] Suspicious ARP Request
+    Frame #2635
+    Source MAC: ec:63:d7:06:ce:35
+    Source IP: 10.1.154.141
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:48:14] Suspicious ARP Request
+    Frame #2635
+    Source MAC: ec:63:d7:06:ce:35
+    Source IP: 10.1.154.141
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:48:15] Suspicious ARP Request
+    Frame #2678
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:48:17] Suspicious ARP Request
+    Frame #2722
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 10.1.34.53
+--------------------------------------------------
+[2025-08-14 09:48:18] Suspicious ARP Request
+    Frame #2727
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 10.1.34.53
+--------------------------------------------------
+[2025-08-14 09:48:19] Suspicious ARP Request
+    Frame #2736
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 10.1.34.53
+--------------------------------------------------
+[2025-08-14 09:48:26] Suspicious ARP Request
+    Frame #2790
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.34.123
+--------------------------------------------------
+[2025-08-14 09:48:29] Suspicious ARP Request
+    Frame #2836
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:48:33] Suspicious ARP Request
+    Frame #2879
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:48:41] Suspicious ARP Request
+    Frame #2978
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:48:42] Suspicious ARP Request
+    Frame #2981
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.152.10
+    Target IP: 10.1.152.115
+--------------------------------------------------
+[2025-08-14 09:48:43] Suspicious ARP Request
+    Frame #2992
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 10.1.34.135
+--------------------------------------------------
+[2025-08-14 09:48:45] Suspicious ARP Request
+    Frame #3058
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 10.1.34.135
+--------------------------------------------------
+[2025-08-14 09:48:46] Suspicious ARP Request
+    Frame #3065
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 10.1.34.135
+--------------------------------------------------
+[2025-08-14 09:48:47] Suspicious ARP Request
+    Frame #3089
+    Source MAC: 7c:50:79:ab:99:c4
+    Source IP: 10.1.152.46
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:48:47] Suspicious ARP Request
+    Frame #3102
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 10.1.34.135
+--------------------------------------------------
+[2025-08-14 09:48:48] Suspicious ARP Request
+    Frame #3123
+    Source MAC: f8:54:f6:dc:a8:8e
+    Source IP: 10.1.152.124
+    Target IP: 10.1.152.46
+--------------------------------------------------
+[2025-08-14 09:48:48] Suspicious ARP Request
+    Frame #3138
+    Source MAC: 2c:6e:85:ad:49:90
+    Source IP: 10.1.154.107
+    Target IP: 10.1.152.46
+--------------------------------------------------
+[2025-08-14 09:48:49] Suspicious ARP Request
+    Frame #3176
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 10.1.34.135
+--------------------------------------------------
+[2025-08-14 09:48:50] Suspicious ARP Request
+    Frame #3201
+    Source MAC: 00:11:7f:a0:dd:5c
+    Source IP: 10.1.154.124
+    Target IP: 10.1.152.46
+--------------------------------------------------
+[2025-08-14 09:48:50] Suspicious ARP Request
+    Frame #3222
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 10.1.34.135
+--------------------------------------------------
+[2025-08-14 09:48:51] Suspicious ARP Request
+    Frame #3226
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:48:51] Suspicious ARP Request
+    Frame #3232
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 10.1.34.135
+--------------------------------------------------
+[2025-08-14 09:48:51] Suspicious ARP Request
+    Frame #3234
+    Source MAC: cc:47:40:6c:a8:86
+    Source IP: 10.1.154.24
+    Target IP: 10.1.152.46
+--------------------------------------------------
+[2025-08-14 09:48:55] Suspicious ARP Request
+    Frame #3334
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.35.67
+--------------------------------------------------
+[2025-08-14 09:48:55] Suspicious ARP Request
+    Frame #3354
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+--------------------------------------------------
+[2025-08-14 09:48:56] Suspicious ARP Request
+    Frame #3495
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+--------------------------------------------------
+[2025-08-14 09:48:57] Suspicious ARP Request
+    Frame #3603
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.32.171
+--------------------------------------------------
+[2025-08-14 09:48:57] Suspicious ARP Request
+    Frame #3613
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+--------------------------------------------------
+[2025-08-14 09:48:58] Suspicious ARP Request
+    Frame #3623
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 10.1.34.135
+--------------------------------------------------
+[2025-08-14 09:48:58] Suspicious ARP Request
+    Frame #3624
+    Source MAC: 98:bd:80:21:30:27
+    Source IP: 10.1.32.98
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:48:58] Suspicious ARP Request
+    Frame #3638
+    Source MAC: 98:bd:80:21:30:27
+    Source IP: 10.1.32.98
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:48:58] Suspicious ARP Request
+    Frame #3639
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 10.1.34.135
+--------------------------------------------------
+[2025-08-14 09:48:58] Suspicious ARP Request
+    Frame #3641
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+--------------------------------------------------
+[2025-08-14 09:48:59] Suspicious ARP Request
+    Frame #3650
+    Source MAC: f4:6d:3f:42:e6:e5
+    Source IP: 10.1.34.240
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:48:59] Suspicious ARP Request
+    Frame #3663
+    Source MAC: 98:bd:80:21:30:27
+    Source IP: 10.1.32.98
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:48:59] Suspicious ARP Request
+    Frame #3664
+    Source MAC: 28:d0:43:ab:c1:70
+    Source IP: 10.1.34.120
+    Target IP: 10.1.34.135
+--------------------------------------------------
+[2025-08-14 09:48:59] Suspicious ARP Request
+    Frame #3665
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+--------------------------------------------------
+[2025-08-14 09:49:00] Suspicious ARP Request
+    Frame #3685
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+--------------------------------------------------
+[2025-08-14 09:49:01] Suspicious ARP Request
+    Frame #3696
+    Source MAC: 60:e9:aa:d1:b7:f3
+    Source IP: 10.1.35.66
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:49:01] Suspicious ARP Request
+    Frame #3713
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+--------------------------------------------------
+[2025-08-14 09:49:02] Suspicious ARP Request
+    Frame #3722
+    Source MAC: 60:e9:aa:d1:b7:f3
+    Source IP: 10.1.35.66
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:49:02] Suspicious ARP Request
+    Frame #3746
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+--------------------------------------------------
+[2025-08-14 09:49:03] Suspicious ARP Request
+    Frame #3755
+    Source MAC: 60:e9:aa:d1:b7:f3
+    Source IP: 10.1.35.66
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:49:03] Suspicious ARP Request
+    Frame #3756
+    Source MAC: f8:54:f6:4f:85:f9
+    Source IP: 10.1.32.210
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:49:03] Suspicious ARP Request
+    Frame #3757
+    Source MAC: f8:54:f6:4f:85:f9
+    Source IP: 10.1.32.210
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:49:03] Suspicious ARP Request
+    Frame #3759
+    Source MAC: f8:54:f6:4f:85:f9
+    Source IP: 10.1.32.210
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:49:03] Suspicious ARP Request
+    Frame #3760
+    Source MAC: f8:54:f6:4f:85:f9
+    Source IP: 10.1.32.210
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:49:03] Suspicious ARP Request
+    Frame #3771
+    Source MAC: f8:54:f6:4f:85:f9
+    Source IP: 10.1.32.210
+    Target IP: 10.1.99.101
+--------------------------------------------------
+[2025-08-14 09:49:03] Suspicious ARP Request
+    Frame #3773
+    Source MAC: 98:bd:80:21:30:27
+    Source IP: 10.1.32.98
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:49:03] Suspicious ARP Request
+    Frame #3787
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+--------------------------------------------------
+[2025-08-14 09:49:04] Suspicious ARP Request
+    Frame #3788
+    Source MAC: 98:bd:80:21:30:27
+    Source IP: 10.1.32.98
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:49:04] Suspicious ARP Request
+    Frame #3804
+    Source MAC: f8:54:f6:4f:85:f9
+    Source IP: 10.1.32.210
+    Target IP: 10.1.99.101
+--------------------------------------------------
+[2025-08-14 09:49:04] Suspicious ARP Request
+    Frame #3813
+    Source MAC: 08:ed:b9:cd:c0:d3
+    Source IP: 10.1.152.145
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:49:04] Suspicious ARP Request
+    Frame #3826
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+--------------------------------------------------
+[2025-08-14 09:49:04] Suspicious ARP Request
+    Frame #3827
+    Source MAC: f8:54:f6:4f:85:f9
+    Source IP: 10.1.32.210
+    Target IP: 10.1.99.101
+--------------------------------------------------
+[2025-08-14 09:49:04] Suspicious ARP Request
+    Frame #3828
+    Source MAC: 98:bd:80:21:30:27
+    Source IP: 10.1.32.98
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:49:05] Suspicious ARP Request
+    Frame #3830
+    Source MAC: 08:ed:b9:cd:c0:d3
+    Source IP: 10.1.152.145
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:49:05] Suspicious ARP Request
+    Frame #3839
+    Source MAC: 08:ed:b9:cd:c0:d3
+    Source IP: 10.1.152.145
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:49:05] Suspicious ARP Request
+    Frame #3840
+    Source MAC: 08:ed:b9:cd:c0:d3
+    Source IP: 10.1.152.145
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:49:05] Suspicious ARP Request
+    Frame #3841
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+--------------------------------------------------
+[2025-08-14 09:49:06] Suspicious ARP Request
+    Frame #3842
+    Source MAC: e0:d4:e8:25:35:dc
+    Source IP: 10.1.152.109
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:49:06] Suspicious ARP Request
+    Frame #3876
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+--------------------------------------------------
+[2025-08-14 09:49:06] Suspicious ARP Request
+    Frame #3880
+    Source MAC: e0:d4:e8:25:35:dc
+    Source IP: 10.1.152.109
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:49:06] Suspicious ARP Request
+    Frame #3881
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.34.195
+--------------------------------------------------
+[2025-08-14 09:49:07] Suspicious ARP Request
+    Frame #3901
+    Source MAC: 08:ed:b9:cd:c0:d3
+    Source IP: 10.1.152.145
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-14 09:49:07] Suspicious ARP Request
+    Frame #3904
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+--------------------------------------------------
+[2025-08-14 09:49:08] Suspicious ARP Request
+    Frame #3931
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+--------------------------------------------------
+[2025-08-14 09:49:09] Suspicious ARP Request
+    Frame #3939
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+--------------------------------------------------
+[2025-08-14 09:49:10] Suspicious ARP Request
+    Frame #3959
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+--------------------------------------------------
+[2025-08-14 09:49:11] Suspicious ARP Request
+    Frame #3978
+    Source MAC: c0:35:32:e7:e7:81
+    Source IP: 10.1.32.117
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:49:11] Suspicious ARP Request
+    Frame #3980
+    Source MAC: 10:68:38:36:b0:15
+    Source IP: 10.1.35.13
+    Target IP: 10.1.32.10
+--------------------------------------------------
+[2025-08-14 09:49:11] Suspicious ARP Request
+    Frame #3983
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+--------------------------------------------------
+[2025-08-14 09:49:12] Suspicious ARP Request
+    Frame #3986
+    Source MAC: c0:35:32:e7:e7:81
+    Source IP: 10.1.32.117
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-14 09:49:12] Suspicious ARP Request
+    Frame #3989
+    Source MAC: 10:68:38:b1:b8:ab
+    Source IP: 10.1.34.156
+    Target IP: 10.1.34.156
+--------------------------------------------------
+[2025-08-14 09:49:13] Suspicious ARP Request
+    Frame #3990
+    Source MAC: c0:35:32:e7:e7:81
+    Source IP: 10.1.32.117
+    Target IP: 169.254.169.254
+--------------------------------------------------
+[2025-08-18 15:50:43] Suspicious ARP Request
+    Frame #9
+    Source MAC: 50:5a:65:71:32:f1
+    Source IP: 10.1.152.44
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-18 15:50:44] Suspicious ARP Request
+    Frame #24
+    Source MAC: 40:1a:58:61:09:39
+    Source IP: 10.1.154.45
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-18 15:50:48] Suspicious ARP Request
+    Frame #104
+    Source MAC: 40:1a:58:61:09:39
+    Source IP: 10.1.154.45
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-18 15:50:49] Suspicious ARP Request
+    Frame #116
+    Source MAC: 20:2b:20:ef:30:11
+    Source IP: 10.1.35.56
+    Target IP: 10.1.35.7
+--------------------------------------------------
+[2025-08-18 15:50:55] Suspicious ARP Request
+    Frame #176
+    Source MAC: 54:8c:a0:98:6a:d1
+    Source IP: 10.1.154.61
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-18 15:50:56] Suspicious ARP Request
+    Frame #211
+    Source MAC: 54:8c:a0:98:6a:d1
+    Source IP: 10.1.154.61
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-18 15:50:58] Suspicious ARP Request
+    Frame #230
+    Source MAC: 40:1a:58:61:09:39
+    Source IP: 10.1.154.45
+    Target IP: 10.1.152.10
+--------------------------------------------------
+[2025-08-18 15:51:00] Suspicious ARP Request
+    Frame #260
+    Source MAC: 00:04:96:52:de:5f
+    Source IP: 10.1.32.10
+    Target IP: 10.1.33.7
+--------------------------------------------------
