@@ -1,2 +1,5 @@
-##Packet sniffer detection and alerting tool
-This tool detects and alerts if any suspicious behaviour is captured.
+The Packet Sniffer Detection and Alerting Tool is a cybersecurity project built to detect and alert suspicious network activities in real time. The purpose of this project is to provide an understanding of how malicious behaviors like ARP spoofing, port scanning, and sniffing attempts can be identified by monitoring live network traffic.
+
+This project is useful for learning, research, and security demonstrations, as it shows how attackers try to probe or compromise a network and how such behavior can be detected early. By running this tool, system administrators, students, or security enthusiasts can gain insights into network packet analysis, intrusion detection techniques, and real-time security monitoring.
+
+The main goal of this project is to create a lightweight detection system that helps users visualize potential threats on their local network and raises awareness about network vulnerabilities and defense mechanisms.
